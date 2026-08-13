@@ -1,28 +1,228 @@
 {
   "version": "2026.08.13",
-  "updated_at": "2026-08-13T21:04:42.017269",
+  "updated_at": "2026-08-13T21:07:09.904581",
   "description": "List of domains using Russian Ministry of Digital Development certificates",
-  "total_domains": 4,
+  "total_domains": 44,
   "domains": {
+    "abr.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:00.505369"
+    },
+    "absolutbank.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:00.579122"
+    },
     "alfabank.ru": {
       "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
       "ca_type": "GOST",
-      "last_checked": "2026-08-13T21:04:26.441789"
+      "last_checked": "2026-08-13T21:06:01.191358"
+    },
+    "avangard.ru": {
+      "cert_issuer": "SSL error (possibly GOST): [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1016)",
+      "ca_type": "GOST_SUSPECTED",
+      "last_checked": "2026-08-13T21:06:02.073689"
+    },
+    "aversbank.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:02.531248"
+    },
+    "bbr.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:03.550959"
+    },
+    "bilet.nspk.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:03.852675"
+    },
+    "bm-bank.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:04.048634"
+    },
+    "capitalt.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:04.833629"
+    },
+    "bspb.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:04.945014"
+    },
+    "depository.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:07.515417"
+    },
+    "domrfbank.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "RSA",
+      "last_checked": "2026-08-13T21:06:09.152968"
+    },
+    "edu.tinkoff.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:09.888506"
+    },
+    "ibamoscow.ru": {
+      "cert_issuer": "SSL error (possibly GOST): [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)",
+      "ca_type": "GOST_SUSPECTED",
+      "last_checked": "2026-08-13T21:06:13.887219"
+    },
+    "ktech.team": {
+      "cert_issuer": "SSL error (possibly GOST): [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1016)",
+      "ca_type": "GOST_SUSPECTED",
+      "last_checked": "2026-08-13T21:06:19.557282"
+    },
+    "mfk-bank.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "RSA",
+      "last_checked": "2026-08-13T21:06:21.766715"
+    },
+    "metro.spb.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:21.870547"
+    },
+    "mkb.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:22.814424"
+    },
+    "mos.transport.vtb.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:22.965033"
+    },
+    "nspk.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:24.474922"
+    },
+    "podorozhnik.spb.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:27.799223"
+    },
+    "ptsecurity.com": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:28.502098"
+    },
+    "psbank.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:28.570883"
+    },
+    "psb.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:28.655687"
     },
     "rosreestr.ru": {
       "cert_issuer": "SSL error (possibly GOST): [SSL: TLSV1_ALERT_DECODE_ERROR] tlsv1 alert decode error (_ssl.c:1016)",
       "ca_type": "GOST_SUSPECTED",
-      "last_checked": "2026-08-13T21:04:26.911687"
+      "last_checked": "2026-08-13T21:06:29.889863"
     },
-    "vtb.ru": {
+    "rosbank.ru": {
       "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
       "ca_type": "GOST",
-      "last_checked": "2026-08-13T21:04:27.156454"
+      "last_checked": "2026-08-13T21:06:30.446454"
+    },
+    "rshb.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:30.681784"
+    },
+    "ru.ccb.com": {
+      "cert_issuer": "SSL error (possibly GOST): [SSL: UNSAFE_LEGACY_RENEGOTIATION_DISABLED] unsafe legacy renegotiation disabled (_ssl.c:1016)",
+      "ca_type": "GOST_SUSPECTED",
+      "last_checked": "2026-08-13T21:06:32.663847"
+    },
+    "sberbank.com": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:34.134981"
     },
     "sberbank.ru": {
       "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
       "ca_type": "GOST",
-      "last_checked": "2026-08-13T21:04:27.437578"
+      "last_checked": "2026-08-13T21:06:34.213725"
+    },
+    "sbrf.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:34.977691"
+    },
+    "sinara.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:36.474216"
+    },
+    "solid.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:36.680254"
+    },
+    "t-bank-app.su": {
+      "cert_issuer": "SSL error (possibly GOST): [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)",
+      "ca_type": "GOST_SUSPECTED",
+      "last_checked": "2026-08-13T21:06:41.349241"
+    },
+    "t-bank-app.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:42.515667"
+    },
+    "t-ofp.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:43.049520"
+    },
+    "tatsotsbank.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:43.917936"
+    },
+    "tinkoff.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:44.384365"
+    },
+    "tinkoffcapital.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:44.480201"
+    },
+    "vamzakaz.ru": {
+      "cert_issuer": "SSL error (possibly GOST): [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)",
+      "ca_type": "GOST_SUSPECTED",
+      "last_checked": "2026-08-13T21:06:46.587382"
+    },
+    "uralsib.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:47.954832"
+    },
+    "vtb.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:50.140526"
+    },
+    "x5w.ru": {
+      "cert_issuer": "SSL error (possibly GOST): [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)",
+      "ca_type": "GOST_SUSPECTED",
+      "last_checked": "2026-08-13T21:06:54.603690"
+    },
+    "zenit.ru": {
+      "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
+      "ca_type": "GOST",
+      "last_checked": "2026-08-13T21:06:56.996815"
     }
   }
 }
