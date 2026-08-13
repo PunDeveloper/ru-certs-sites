@@ -1,23 +1,28 @@
 {
   "version": "2026.08.13",
-  "updated_at": "2026-08-13T20:42:33.135558",
+  "updated_at": "2026-08-13T21:04:42.017269",
   "description": "List of domains using Russian Ministry of Digital Development certificates",
-  "total_domains": 3,
+  "total_domains": 4,
   "domains": {
     "alfabank.ru": {
       "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
       "ca_type": "GOST",
-      "last_checked": "2026-08-13T20:42:16.021151"
+      "last_checked": "2026-08-13T21:04:26.441789"
+    },
+    "rosreestr.ru": {
+      "cert_issuer": "SSL error (possibly GOST): [SSL: TLSV1_ALERT_DECODE_ERROR] tlsv1 alert decode error (_ssl.c:1016)",
+      "ca_type": "GOST_SUSPECTED",
+      "last_checked": "2026-08-13T21:04:26.911687"
     },
     "vtb.ru": {
       "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
       "ca_type": "GOST",
-      "last_checked": "2026-08-13T20:42:16.698959"
+      "last_checked": "2026-08-13T21:04:27.156454"
     },
     "sberbank.ru": {
       "cert_issuer": "Issuer: C=RU, O=The Ministry of Digital Development and Communications, CN=Russian Trusted Sub CA",
       "ca_type": "GOST",
-      "last_checked": "2026-08-13T20:42:16.826261"
+      "last_checked": "2026-08-13T21:04:27.437578"
     }
   }
 }
