@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-08-17T17:11:58.530345
-# Total: 165 base domains
+# Updated: 2026-08-17T17:21:20.687768
+# Total: 185 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -12,6 +12,7 @@ domain-suffix:alfabank.ru
 domain-suffix:altai.ru
 domain-suffix:amur.ru
 domain-suffix:arkhangelsk.ru
+domain-suffix:asia-pay.ru
 domain-suffix:at.ua
 domain-suffix:aval.ua
 domain-suffix:avangard.ru
@@ -24,12 +25,14 @@ domain-suffix:bm-bank.ru
 domain-suffix:bspb.ru
 domain-suffix:buryatia.ru
 domain-suffix:capitalt.ru
+domain-suffix:carrotquest-mail.io
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
 domain-suffix:cdn2cdn.com
 domain-suffix:cdn2site.com
 domain-suffix:cikrf.ru
+domain-suffix:co.il
 domain-suffix:commerzbank.ru
 domain-suffix:comss.net
 domain-suffix:dagestan.ru
@@ -39,7 +42,6 @@ domain-suffix:depository.ru
 domain-suffix:dev-my.com
 domain-suffix:dialogx5.ru
 domain-suffix:domrfbank.ru
-domain-suffix:eadaily.info
 domain-suffix:eadaily.net
 domain-suffix:eadaily.su
 domain-suffix:eurasiadaily.su
@@ -85,11 +87,17 @@ domain-suffix:mos-gorsud.co
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
 domain-suffix:nov.ru
+domain-suffix:novosibirsk.ru
 domain-suffix:nspk.ru
+domain-suffix:ognihome.com
+domain-suffix:ok.me
+domain-suffix:ok.ru
+domain-suffix:okcdn.ru
 domain-suffix:omsk.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
+domain-suffix:priorbank.by
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
@@ -157,14 +165,26 @@ domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
-domain-suffix:warehouse.domains
-domain-suffix:wb.ru
 domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:wbtek.ru
 domain-suffix:x5w.ru
+domain-suffix:yandexwebcache.org
+domain-suffix:yango-b2b.com
 domain-suffix:yango-team.com
+domain-suffix:yango-tech.com
+domain-suffix:yango.africa
+domain-suffix:yango.ao
+domain-suffix:yango.bh
+domain-suffix:yango.com
+domain-suffix:yango.fi
+domain-suffix:yango.qa
+domain-suffix:yango.taxi
+domain-suffix:yangofellowship.com
+domain-suffix:yap.ru
+domain-suffix:yapfiles.ru
+domain-suffix:yaplakal.com
 domain-suffix:yaroslavl.ru
 domain-suffix:zdrav10.ru
 domain-suffix:zenit.ru
