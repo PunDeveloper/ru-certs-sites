@@ -1,10 +1,10 @@
 {
-  "version": "2026.08.17.1704",
-  "updated_at": "2026-08-17T17:04:26.741272",
-  "total_domains": 167,
+  "version": "2026.08.17.1711",
+  "updated_at": "2026-08-17T17:11:58.535209",
+  "total_domains": 165,
   "changes": {
-    "added": 19,
-    "removed": 85
+    "added": 33,
+    "removed": 35
   },
   "signature_algorithm": "Ed25519",
   "files": {
