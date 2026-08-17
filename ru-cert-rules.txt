@@ -1,0 +1,43 @@
+# Russian Ministry of Digital Development certificates
+# Updated: 2026-08-17T16:28:42.322850
+# Total: 37 base domains
+# Format: domain-suffix (applies to domain and all subdomains)
+# Compatible with: v2ray, xray, sing-box, clash
+
+domain-suffix:4epenaxa.com
+domain-suffix:absolutbank.ru
+domain-suffix:alfabank.ru
+domain-suffix:alfadirect.ru
+domain-suffix:armgs.team
+domain-suffix:aversbank.ru
+domain-suffix:bbr.ru
+domain-suffix:bm-bank.ru
+domain-suffix:bspb.ru
+domain-suffix:capitalt.ru
+domain-suffix:depository.ru
+domain-suffix:domrfbank.ru
+domain-suffix:mfk-bank.ru
+domain-suffix:mil.ru
+domain-suffix:mkb.ru
+domain-suffix:nspk.ru
+domain-suffix:pochtabank.ru
+domain-suffix:psb.ru
+domain-suffix:psbank.ru
+domain-suffix:ptsecurity.com
+domain-suffix:rkomi.ru
+domain-suffix:rosbank.ru
+domain-suffix:rshb.ru
+domain-suffix:sberbank.com
+domain-suffix:sberbank.ru
+domain-suffix:sbrf.ru
+domain-suffix:sinara.ru
+domain-suffix:solid.ru
+domain-suffix:spb.ru
+domain-suffix:t-bank-app.ru
+domain-suffix:t-ofp.ru
+domain-suffix:tatsotsbank.ru
+domain-suffix:tinkoffcapital.ru
+domain-suffix:uralsib.ru
+domain-suffix:volgograd.ru
+domain-suffix:vtb.ru
+domain-suffix:zenit.ru
