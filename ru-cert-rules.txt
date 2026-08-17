@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-08-17T17:26:58.801298
-# Total: 175 base domains
+# Updated: 2026-08-17T17:34:52.752435
+# Total: 183 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -12,7 +12,6 @@ domain-suffix:alfabank.ru
 domain-suffix:altai.ru
 domain-suffix:amur.ru
 domain-suffix:arkhangelsk.ru
-domain-suffix:asia-pay.ru
 domain-suffix:at.ua
 domain-suffix:aval.ua
 domain-suffix:avangard.ru
@@ -23,7 +22,9 @@ domain-suffix:bbr.ru
 domain-suffix:bir.ru
 domain-suffix:bm-bank.ru
 domain-suffix:bspb.ru
+domain-suffix:buryatia.ru
 domain-suffix:capitalt.ru
+domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
@@ -40,7 +41,9 @@ domain-suffix:dev-my.com
 domain-suffix:dialogx5.ru
 domain-suffix:domrfbank.ru
 domain-suffix:eadaily.info
+domain-suffix:eadaily.net
 domain-suffix:eadaily.su
+domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
 domain-suffix:farmlend.ru
 domain-suffix:gamescup.ru
@@ -50,6 +53,7 @@ domain-suffix:government.ru
 domain-suffix:grozny.ru
 domain-suffix:ibamoscow.ru
 domain-suffix:icq.com
+domain-suffix:imgsmail.ru
 domain-suffix:ivanovo.ru
 domain-suffix:izbirkom.ru
 domain-suffix:jamal.ru
@@ -81,37 +85,39 @@ domain-suffix:mkb.ru
 domain-suffix:mlbootcamp.ru
 domain-suffix:mordovia.ru
 domain-suffix:mos-gorsud.co
+domain-suffix:mradx.net
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
 domain-suffix:nov.ru
 domain-suffix:nspk.ru
-domain-suffix:ok.me
 domain-suffix:omsk.ru
+domain-suffix:ozon.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
+domain-suffix:prim-edu.ru
+domain-suffix:priorbank.by
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
+domain-suffix:pushbr.com
 domain-suffix:pushgrow.io
+domain-suffix:pvubank.com
+domain-suffix:pz.help
+domain-suffix:r01.ru
+domain-suffix:rabota.by
+domain-suffix:radiosputnik.ru
+domain-suffix:raiffeisen-kosovo.com
+domain-suffix:raiffeisen-media.ru
+domain-suffix:raiffeisen.al
+domain-suffix:raiffeisen.hu
 domain-suffix:raiffeisen.ua
 domain-suffix:rkomi.ru
 domain-suffix:rnd.ru
 domain-suffix:rosbank.ru
 domain-suffix:rshb.ru
 domain-suffix:ru.net
-domain-suffix:ruhub.tv
-domain-suffix:runewsrt.com
-domain-suffix:ruptly.agency
-domain-suffix:ruptly.video
-domain-suffix:rurtnews.com
-domain-suffix:rusfinance.ru
-domain-suffix:rusfinancebank.ru
-domain-suffix:russiabeyond.com
-domain-suffix:russiaislove.com
-domain-suffix:russiandesigncup.ru
-domain-suffix:russiatoday.ru
 domain-suffix:rutracker.net
 domain-suffix:rutracker.nl
 domain-suffix:rutracker.org
@@ -158,6 +164,8 @@ domain-suffix:ucoz.ua
 domain-suffix:ulan-ude.ru
 domain-suffix:uralsib.ru
 domain-suffix:vamzakaz.ru
+domain-suffix:vk-portal.net
+domain-suffix:vk.ru
 domain-suffix:vkgo.app
 domain-suffix:vklive.app
 domain-suffix:vkmessenger.app
@@ -168,12 +176,12 @@ domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
-domain-suffix:warehouse.domains
 domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:wbtek.ru
 domain-suffix:x5w.ru
+domain-suffix:yandex.tj
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
 domain-suffix:zdrav10.ru
