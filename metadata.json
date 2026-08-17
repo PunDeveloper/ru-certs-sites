@@ -1,18 +1,15 @@
 {
-  "version": "2026.08.17.1651",
-  "updated_at": "2026-08-17T16:51:20.911164",
-  "total_domains": 233,
+  "version": "2026.08.17.1704",
+  "updated_at": "2026-08-17T17:04:26.741272",
+  "total_domains": 167,
   "changes": {
-    "added": 53,
-    "removed": 42
+    "added": 19,
+    "removed": 85
   },
   "signature_algorithm": "Ed25519",
-  "signature_file": "ru-cert-rules.txt.minisig",
-  "format": "domain-suffix",
-  "compatible_with": [
-    "v2ray",
-    "xray",
-    "sing-box",
-    "clash"
-  ]
+  "files": {
+    "rules": "ru-cert-rules.txt",
+    "signature": "ru-cert-rules.txt.minisig",
+    "checksum": "checksum.sha256"
+  }
 }
