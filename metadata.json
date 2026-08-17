@@ -1,0 +1,18 @@
+{
+  "version": "2026.08.17.1651",
+  "updated_at": "2026-08-17T16:51:20.911164",
+  "total_domains": 233,
+  "changes": {
+    "added": 53,
+    "removed": 42
+  },
+  "signature_algorithm": "Ed25519",
+  "signature_file": "ru-cert-rules.txt.minisig",
+  "format": "domain-suffix",
+  "compatible_with": [
+    "v2ray",
+    "xray",
+    "sing-box",
+    "clash"
+  ]
+}
