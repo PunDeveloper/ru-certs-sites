@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-08-18T10:33:46.708721
-# Total: 164 base domains
+# Updated: 2026-08-19T08:27:55.633249
+# Total: 168 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -23,7 +23,6 @@ domain-suffix:bir.ru
 domain-suffix:bm-bank.ru
 domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
-domain-suffix:buryatia.ru
 domain-suffix:capitalt.ru
 domain-suffix:carrotquest-mail.io
 domain-suffix:carrotquest.app
@@ -42,13 +41,16 @@ domain-suffix:depository.ru
 domain-suffix:dev-my.com
 domain-suffix:dialogx5.ru
 domain-suffix:domrfbank.ru
+domain-suffix:durovscode.com
 domain-suffix:eadaily.info
 domain-suffix:eadaily.net
+domain-suffix:eadaily.su
 domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
 domain-suffix:gamescup.ru
 domain-suffix:gov.ru
 domain-suffix:government.ru
+domain-suffix:group-ib.com
 domain-suffix:grozny.ru
 domain-suffix:ibamoscow.ru
 domain-suffix:icq.com
@@ -77,6 +79,7 @@ domain-suffix:marine.ru
 domain-suffix:medsi.pro
 domain-suffix:megafon.com
 domain-suffix:megamarket.tech
+domain-suffix:meteofor.com
 domain-suffix:mfk-bank.ru
 domain-suffix:mfk-t-finance.ru
 domain-suffix:mil.ru
@@ -84,19 +87,23 @@ domain-suffix:mkb.ru
 domain-suffix:mlbootcamp.ru
 domain-suffix:mordovia.ru
 domain-suffix:mos-gorsud.co
+domain-suffix:mosgorzdrav.ru
+domain-suffix:mosmetro.ru
+domain-suffix:mosmetro.tech
+domain-suffix:mosreg.ru
+domain-suffix:movika.com
+domain-suffix:mp.world
+domain-suffix:mpgw-my.com
+domain-suffix:mradx.net
 domain-suffix:mtsbank.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
-domain-suffix:netschool.website
 domain-suffix:nov.ru
 domain-suffix:nspk.ru
-domain-suffix:ok.me
 domain-suffix:omsk.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
-domain-suffix:prim-edu.ru
-domain-suffix:priorbank.by
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
@@ -156,13 +163,10 @@ domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
-domain-suffix:warehouse.domains
 domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
-domain-suffix:wbtek.ru
 domain-suffix:x5w.ru
-domain-suffix:yandex.md
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
 domain-suffix:zdrav10.ru
