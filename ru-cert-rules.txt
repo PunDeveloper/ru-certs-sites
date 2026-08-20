@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-08-19T08:27:55.633249
-# Total: 168 base domains
+# Updated: 2026-08-20T10:33:45.740975
+# Total: 164 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -17,6 +17,7 @@ domain-suffix:aval.ua
 domain-suffix:avangard.ru
 domain-suffix:aversbank.ru
 domain-suffix:babki.ru
+domain-suffix:bank-arzamas.ru
 domain-suffix:bashkiria.ru
 domain-suffix:bbr.ru
 domain-suffix:bir.ru
@@ -24,7 +25,6 @@ domain-suffix:bm-bank.ru
 domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:capitalt.ru
-domain-suffix:carrotquest-mail.io
 domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
@@ -32,8 +32,10 @@ domain-suffix:cdn-service.space
 domain-suffix:cdn2cdn.com
 domain-suffix:cdn2site.com
 domain-suffix:cikrf.ru
+domain-suffix:com.am
 domain-suffix:commerzbank.ru
 domain-suffix:comss.net
+domain-suffix:crimea.ru
 domain-suffix:dagestan.ru
 domain-suffix:dahl.su
 domain-suffix:dbmoscow.ru
@@ -41,16 +43,12 @@ domain-suffix:depository.ru
 domain-suffix:dev-my.com
 domain-suffix:dialogx5.ru
 domain-suffix:domrfbank.ru
-domain-suffix:durovscode.com
 domain-suffix:eadaily.info
-domain-suffix:eadaily.net
-domain-suffix:eadaily.su
 domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
 domain-suffix:gamescup.ru
 domain-suffix:gov.ru
 domain-suffix:government.ru
-domain-suffix:group-ib.com
 domain-suffix:grozny.ru
 domain-suffix:ibamoscow.ru
 domain-suffix:icq.com
@@ -63,6 +61,9 @@ domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kchgov.ru
 domain-suffix:kinopub.online
+domain-suffix:kontur-inc.com
+domain-suffix:kontur.host
+domain-suffix:kontur.ru
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
 domain-suffix:krasnoyarsk.ru
@@ -71,7 +72,6 @@ domain-suffix:ktech.team
 domain-suffix:lipetsk.ru
 domain-suffix:list.ru
 domain-suffix:magadan.ru
-domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
 domain-suffix:maintracker.org
 domain-suffix:mari.ru
@@ -79,7 +79,6 @@ domain-suffix:marine.ru
 domain-suffix:medsi.pro
 domain-suffix:megafon.com
 domain-suffix:megamarket.tech
-domain-suffix:meteofor.com
 domain-suffix:mfk-bank.ru
 domain-suffix:mfk-t-finance.ru
 domain-suffix:mil.ru
@@ -87,14 +86,6 @@ domain-suffix:mkb.ru
 domain-suffix:mlbootcamp.ru
 domain-suffix:mordovia.ru
 domain-suffix:mos-gorsud.co
-domain-suffix:mosgorzdrav.ru
-domain-suffix:mosmetro.ru
-domain-suffix:mosmetro.tech
-domain-suffix:mosreg.ru
-domain-suffix:movika.com
-domain-suffix:mp.world
-domain-suffix:mpgw-my.com
-domain-suffix:mradx.net
 domain-suffix:mtsbank.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
@@ -104,12 +95,14 @@ domain-suffix:omsk.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
+domain-suffix:prim-edu.ru
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
 domain-suffix:pushgrow.io
 domain-suffix:raiffeisen.ua
+domain-suffix:raiffeisenbank.rs
 domain-suffix:rkomi.ru
 domain-suffix:rnd.ru
 domain-suffix:rosbank.ru
@@ -120,6 +113,7 @@ domain-suffix:rutracker.nl
 domain-suffix:rutracker.org
 domain-suffix:rutracker.wiki
 domain-suffix:ryazan.ru
+domain-suffix:rzd.ru
 domain-suffix:sakhalin.ru
 domain-suffix:saratov.ru
 domain-suffix:sber-bank.by
@@ -131,6 +125,7 @@ domain-suffix:smailru.net
 domain-suffix:smarttvcdn.online
 domain-suffix:sokolov.io
 domain-suffix:solid.ru
+domain-suffix:sovcombank.ru
 domain-suffix:spasibosb.ru
 domain-suffix:spb.ru
 domain-suffix:stv.ru
@@ -166,6 +161,7 @@ domain-suffix:vtb.ru
 domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
+domain-suffix:wbtek.ru
 domain-suffix:x5w.ru
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
