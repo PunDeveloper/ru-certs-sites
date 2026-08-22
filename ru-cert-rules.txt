@@ -1,5 +1,5 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-08-21T07:47:54.313026
+# Updated: 2026-08-22T09:04:36.295994
 # Total: 174 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
@@ -17,7 +17,6 @@ domain-suffix:aval.ua
 domain-suffix:avangard.ru
 domain-suffix:aversbank.ru
 domain-suffix:babki.ru
-domain-suffix:bank-arzamas.ru
 domain-suffix:bashkiria.ru
 domain-suffix:bbr.ru
 domain-suffix:bir.ru
@@ -26,16 +25,15 @@ domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:capitalt.ru
 domain-suffix:carrotquest-mail.io
-domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
 domain-suffix:cdn2cdn.com
 domain-suffix:cdn2site.com
 domain-suffix:cikrf.ru
+domain-suffix:com.by
 domain-suffix:commerzbank.ru
 domain-suffix:comss.net
-domain-suffix:crimea.ru
 domain-suffix:dagestan.ru
 domain-suffix:dahl.su
 domain-suffix:dbmoscow.ru
@@ -45,6 +43,7 @@ domain-suffix:dialogx5.ru
 domain-suffix:domrfbank.ru
 domain-suffix:eadaily.info
 domain-suffix:eadaily.net
+domain-suffix:eadaily.su
 domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
 domain-suffix:gamescup.ru
@@ -61,7 +60,6 @@ domain-suffix:kalmykia.ru
 domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kchgov.ru
-domain-suffix:khabarovsk.ru
 domain-suffix:kinopub.online
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
@@ -84,33 +82,36 @@ domain-suffix:mil.ru
 domain-suffix:mkb.ru
 domain-suffix:mlbootcamp.ru
 domain-suffix:mordovia.ru
-domain-suffix:mos-gorsud.co
 domain-suffix:mtsbank.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
-domain-suffix:nalog.ru
-domain-suffix:naydex.net
-domain-suffix:netcraze.club
-domain-suffix:netcraze.link
-domain-suffix:netcraze.pro
-domain-suffix:netmonet.co
 domain-suffix:netschool.website
-domain-suffix:ngenix.net
-domain-suffix:nic.ru
-domain-suffix:nichost.ru
 domain-suffix:nov.ru
 domain-suffix:nspk.ru
 domain-suffix:omsk.ru
+domain-suffix:ozon.app
+domain-suffix:ozon.by
+domain-suffix:ozon.com
+domain-suffix:ozon.dev
+domain-suffix:ozon.express
+domain-suffix:ozon.kz
+domain-suffix:ozon.li
 domain-suffix:ozon.ru
+domain-suffix:ozon.tech
+domain-suffix:ozon.tm
+domain-suffix:ozon.travel
+domain-suffix:ozoncamp.pro
+domain-suffix:ozoncard.ru
+domain-suffix:ozoncom.by
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
-domain-suffix:priorbank.by
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
 domain-suffix:raiffeisen.ua
+domain-suffix:raiffeisenbank.rs
 domain-suffix:rkomi.ru
 domain-suffix:rnd.ru
 domain-suffix:rosbank.ru
@@ -156,7 +157,6 @@ domain-suffix:ucoz.ua
 domain-suffix:ulan-ude.ru
 domain-suffix:uralsib.ru
 domain-suffix:vamzakaz.ru
-domain-suffix:vk.com
 domain-suffix:vkgo.app
 domain-suffix:vklive.app
 domain-suffix:vkmessenger.app
