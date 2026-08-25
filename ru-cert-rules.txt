@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-08-24T07:59:45.214606
-# Total: 172 base domains
+# Updated: 2026-08-25T08:26:02.682929
+# Total: 192 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -11,12 +11,14 @@ domain-suffix:alador.space
 domain-suffix:alfabank.ru
 domain-suffix:altai.ru
 domain-suffix:amur.ru
+domain-suffix:apiok.ru
 domain-suffix:arkhangelsk.ru
 domain-suffix:at.ua
 domain-suffix:aval.ua
 domain-suffix:avangard.ru
 domain-suffix:aversbank.ru
 domain-suffix:babki.ru
+domain-suffix:bank-arzamas.ru
 domain-suffix:bashkiria.ru
 domain-suffix:bbr.ru
 domain-suffix:bir.ru
@@ -25,16 +27,15 @@ domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:capitalt.ru
 domain-suffix:carrotquest-mail.io
+domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
 domain-suffix:cdn2cdn.com
 domain-suffix:cdn2site.com
 domain-suffix:cikrf.ru
-domain-suffix:co.ee
 domain-suffix:commerzbank.ru
 domain-suffix:comss.net
-domain-suffix:crimea.ru
 domain-suffix:dagestan.ru
 domain-suffix:dahl.su
 domain-suffix:dbmoscow.ru
@@ -45,6 +46,8 @@ domain-suffix:domrfbank.ru
 domain-suffix:eadaily.info
 domain-suffix:eadaily.net
 domain-suffix:eadaily.su
+domain-suffix:edna.io
+domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
 domain-suffix:gamescup.ru
 domain-suffix:gov.ru
@@ -60,6 +63,7 @@ domain-suffix:kalmykia.ru
 domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kchgov.ru
+domain-suffix:khabarovsk.ru
 domain-suffix:kinopub.online
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
@@ -68,8 +72,8 @@ domain-suffix:kremlin.ru
 domain-suffix:ktech.team
 domain-suffix:list.ru
 domain-suffix:magadan.ru
+domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
-domain-suffix:maintracker.org
 domain-suffix:mari.ru
 domain-suffix:marine.ru
 domain-suffix:medsi.pro
@@ -82,29 +86,28 @@ domain-suffix:mkb.ru
 domain-suffix:mlbootcamp.ru
 domain-suffix:mordovia.ru
 domain-suffix:mtsbank.ru
+domain-suffix:mtsmedia.ru
+domain-suffix:murmansk.ru
+domain-suffix:mvideo.ru
+domain-suffix:mvk.com
+domain-suffix:mvs-bank.ru
+domain-suffix:my-manager-account.com
+domain-suffix:my-tbank.ru
+domain-suffix:my.com
+domain-suffix:my.games
+domain-suffix:myadx.net
+domain-suffix:myapelsin.ru
+domain-suffix:mycdn.me
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
-domain-suffix:nic.ru
 domain-suffix:nov.ru
 domain-suffix:nspk.ru
-domain-suffix:odnoklassniki.am
-domain-suffix:odnoklassniki.by
-domain-suffix:odnoklassniki.eu
-domain-suffix:odnoklassniki.lv
-domain-suffix:odnoklassniki.ru
-domain-suffix:odnoklassniki.tj
-domain-suffix:ognihome.com
-domain-suffix:ok.me
-domain-suffix:ok.ru
-domain-suffix:okcdn.ru
-domain-suffix:okko.sport
-domain-suffix:okko.tv
-domain-suffix:okkoapi.tv
-domain-suffix:okl.lt
 domain-suffix:omsk.ru
+domain-suffix:ozon-tech.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
+domain-suffix:priorbank.by
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
@@ -149,6 +152,7 @@ domain-suffix:tinkoff.ru
 domain-suffix:tinkoffcapital.ru
 domain-suffix:tinkoffmobile.com
 domain-suffix:tochka-tech.com
+domain-suffix:tochka.com
 domain-suffix:tom.ru
 domain-suffix:tsk.ru
 domain-suffix:tula.ru
@@ -166,12 +170,28 @@ domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
+domain-suffix:warehouse.domains
 domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:wbtek.ru
 domain-suffix:x5w.ru
 domain-suffix:yango-team.com
+domain-suffix:yango.qa
+domain-suffix:yangofellowship.com
+domain-suffix:yap.ru
+domain-suffix:yapfiles.ru
+domain-suffix:yaplakal.com
 domain-suffix:yaroslavl.ru
+domain-suffix:yastat.net
+domain-suffix:yastatic-net.ru
+domain-suffix:yastatic.net
+domain-suffix:yccdn.ru
+domain-suffix:yclients.com
+domain-suffix:yndx.net
+domain-suffix:yoobusiness.ru
+domain-suffix:youla.io
+domain-suffix:youla.ru
+domain-suffix:yourgood.app
 domain-suffix:zdrav10.ru
 domain-suffix:zenit.ru
