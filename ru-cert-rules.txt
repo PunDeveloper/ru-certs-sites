@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-08-27T09:12:16.174141
-# Total: 178 base domains
+# Updated: 2026-08-28T10:33:41.837321
+# Total: 164 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -24,14 +24,14 @@ domain-suffix:bm-bank.ru
 domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:capitalt.ru
+domain-suffix:carrotquest-mail.io
+domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
 domain-suffix:cdn2cdn.com
 domain-suffix:cdn2site.com
 domain-suffix:cikrf.ru
-domain-suffix:com.by
-domain-suffix:com.ru
 domain-suffix:commerzbank.ru
 domain-suffix:comss.net
 domain-suffix:dagestan.ru
@@ -41,8 +41,8 @@ domain-suffix:depository.ru
 domain-suffix:dev-my.com
 domain-suffix:dialogx5.ru
 domain-suffix:domrfbank.ru
-domain-suffix:eadaily.info
-domain-suffix:eadaily.net
+domain-suffix:eadaily.su
+domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
 domain-suffix:gamescup.ru
 domain-suffix:gov.ru
@@ -65,10 +65,8 @@ domain-suffix:krasnodar.su
 domain-suffix:krasnoyarsk.ru
 domain-suffix:kremlin.ru
 domain-suffix:ktech.team
-domain-suffix:lipetsk.ru
 domain-suffix:list.ru
 domain-suffix:magadan.ru
-domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
 domain-suffix:maintracker.org
 domain-suffix:mari.ru
@@ -85,23 +83,13 @@ domain-suffix:mordovia.ru
 domain-suffix:mtsbank.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
+domain-suffix:netcraze.club
+domain-suffix:netcraze.link
+domain-suffix:netcraze.pro
 domain-suffix:nov.ru
 domain-suffix:nspk.ru
-domain-suffix:ok.me
 domain-suffix:omsk.ru
 domain-suffix:ozon-tech.ru
-domain-suffix:ozon.app
-domain-suffix:ozon.by
-domain-suffix:ozon.com
-domain-suffix:ozon.dev
-domain-suffix:ozon.express
-domain-suffix:ozon.kz
-domain-suffix:ozon.li
-domain-suffix:ozon.ru
-domain-suffix:ozon.tech
-domain-suffix:ozon.tm
-domain-suffix:ozon.travel
-domain-suffix:ozoncamp.pro
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
@@ -112,7 +100,6 @@ domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
 domain-suffix:pushgrow.io
 domain-suffix:raiffeisen.ua
-domain-suffix:raiffeisenbank.rs
 domain-suffix:rkomi.ru
 domain-suffix:rnd.ru
 domain-suffix:rosbank.ru
@@ -171,12 +158,11 @@ domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
+domain-suffix:warehouse.domains
 domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
-domain-suffix:wbtek.ru
 domain-suffix:x5w.ru
-domain-suffix:yandex.lv
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
 domain-suffix:zdrav10.ru
