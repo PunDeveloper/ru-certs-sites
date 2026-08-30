@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-08-29T10:33:34.822562
-# Total: 160 base domains
+# Updated: 2026-08-30T10:34:07.016769
+# Total: 183 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -24,6 +24,7 @@ domain-suffix:bm-bank.ru
 domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:capitalt.ru
+domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
@@ -58,6 +59,7 @@ domain-suffix:kalmykia.ru
 domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kchgov.ru
+domain-suffix:khabarovsk.ru
 domain-suffix:kinopub.online
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
@@ -66,6 +68,7 @@ domain-suffix:kremlin.ru
 domain-suffix:ktech.team
 domain-suffix:list.ru
 domain-suffix:magadan.ru
+domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
 domain-suffix:maintracker.org
 domain-suffix:mari.ru
@@ -89,7 +92,6 @@ domain-suffix:ozon-tech.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
-domain-suffix:priorbank.by
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
@@ -159,6 +161,27 @@ domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:x5w.ru
+domain-suffix:yandex.md
+domain-suffix:yandex.mobi
+domain-suffix:yandex.net
+domain-suffix:yandex.org
+domain-suffix:yandex.pl
+domain-suffix:yandex.ru
+domain-suffix:yandex.st
+domain-suffix:yandex.tj
+domain-suffix:yandex.tm
+domain-suffix:yandex.tr
+domain-suffix:yandex.uz
+domain-suffix:yandexadexchange.net
+domain-suffix:yandexcloud.net
+domain-suffix:yandexcom.net
+domain-suffix:yandexgo.com
+domain-suffix:yandexlyceum.ru
+domain-suffix:yandexmetrica.com
+domain-suffix:yandexwebcache.net
+domain-suffix:yandexwebcache.org
+domain-suffix:yango-ads.com
+domain-suffix:yango-b2b.com
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
 domain-suffix:zdrav10.ru
