@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-08-30T10:34:07.016769
-# Total: 183 base domains
+# Updated: 2026-08-31T07:57:50.481511
+# Total: 181 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -40,8 +40,6 @@ domain-suffix:depository.ru
 domain-suffix:dev-my.com
 domain-suffix:dialogx5.ru
 domain-suffix:domrfbank.ru
-domain-suffix:eadaily.info
-domain-suffix:eadaily.net
 domain-suffix:eadaily.su
 domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
@@ -59,7 +57,6 @@ domain-suffix:kalmykia.ru
 domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kchgov.ru
-domain-suffix:khabarovsk.ru
 domain-suffix:kinopub.online
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
@@ -86,17 +83,26 @@ domain-suffix:mtsbank.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
 domain-suffix:nov.ru
+domain-suffix:novosibirsk.ru
+domain-suffix:nsk.ru
 domain-suffix:nspk.ru
+domain-suffix:o-courier.ru
+domain-suffix:o-uchi.ru
+domain-suffix:o3t.ru
+domain-suffix:o3team.ru
 domain-suffix:omsk.ru
 domain-suffix:ozon-tech.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
+domain-suffix:priorbank.by
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
+domain-suffix:pushgrow.io
 domain-suffix:raiffeisen.ua
+domain-suffix:raiffeisenbank.rs
 domain-suffix:rkomi.ru
 domain-suffix:rnd.ru
 domain-suffix:rosbank.ru
@@ -156,32 +162,24 @@ domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
-domain-suffix:warehouse.domains
 domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
+domain-suffix:wildberries.tm
+domain-suffix:wildberries.uz
+domain-suffix:wildberriess.ru
+domain-suffix:wildberrise.ru
+domain-suffix:wildbiries.ru
+domain-suffix:wildbirris.ru
+domain-suffix:wildbress.ru
+domain-suffix:wildbries.ru
+domain-suffix:wildbrris.ru
+domain-suffix:wildeberies.ru
+domain-suffix:wildeberris.ru
+domain-suffix:wiliberes.ru
+domain-suffix:willberiess.ru
+domain-suffix:willberis.ru
 domain-suffix:x5w.ru
-domain-suffix:yandex.md
-domain-suffix:yandex.mobi
-domain-suffix:yandex.net
-domain-suffix:yandex.org
-domain-suffix:yandex.pl
-domain-suffix:yandex.ru
-domain-suffix:yandex.st
-domain-suffix:yandex.tj
-domain-suffix:yandex.tm
-domain-suffix:yandex.tr
-domain-suffix:yandex.uz
-domain-suffix:yandexadexchange.net
-domain-suffix:yandexcloud.net
-domain-suffix:yandexcom.net
-domain-suffix:yandexgo.com
-domain-suffix:yandexlyceum.ru
-domain-suffix:yandexmetrica.com
-domain-suffix:yandexwebcache.net
-domain-suffix:yandexwebcache.org
-domain-suffix:yango-ads.com
-domain-suffix:yango-b2b.com
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
 domain-suffix:zdrav10.ru
