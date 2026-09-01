@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-09-01T07:34:05.136005
-# Total: 179 base domains
+# Updated: 2026-09-01T10:26:58.180497
+# Total: 176 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -11,7 +11,6 @@ domain-suffix:alador.space
 domain-suffix:alfabank.ru
 domain-suffix:altai.ru
 domain-suffix:amur.ru
-domain-suffix:apiok.ru
 domain-suffix:arkhangelsk.ru
 domain-suffix:at.ua
 domain-suffix:aval.ua
@@ -25,7 +24,7 @@ domain-suffix:bm-bank.ru
 domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:capitalt.ru
-domain-suffix:carrotquest.app
+domain-suffix:carrotquest-mail.io
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
@@ -52,6 +51,7 @@ domain-suffix:government.ru
 domain-suffix:grozny.ru
 domain-suffix:ibamoscow.ru
 domain-suffix:icq.com
+domain-suffix:imgsmail.ru
 domain-suffix:ivanovo.ru
 domain-suffix:izbirkom.ru
 domain-suffix:jamal.ru
@@ -60,9 +60,7 @@ domain-suffix:kalmykia.ru
 domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kchgov.ru
-domain-suffix:khabarovsk.ru
 domain-suffix:kinopub.online
-domain-suffix:kontur-inc.com
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
 domain-suffix:krasnoyarsk.ru
@@ -70,6 +68,7 @@ domain-suffix:kremlin.ru
 domain-suffix:ktech.team
 domain-suffix:list.ru
 domain-suffix:magadan.ru
+domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
 domain-suffix:maintracker.org
 domain-suffix:mari.ru
@@ -83,25 +82,35 @@ domain-suffix:mil.ru
 domain-suffix:mkb.ru
 domain-suffix:mlbootcamp.ru
 domain-suffix:mordovia.ru
+domain-suffix:mradx.net
 domain-suffix:mtsbank.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
-domain-suffix:netcraze.pro
+domain-suffix:netcraze.club
+domain-suffix:netcraze.link
 domain-suffix:nov.ru
 domain-suffix:nspk.ru
-domain-suffix:ok.me
 domain-suffix:omsk.ru
 domain-suffix:ozon-tech.ru
+domain-suffix:ozon.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
+domain-suffix:prim-edu.ru
 domain-suffix:priorbank.by
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
+domain-suffix:public.express
+domain-suffix:pushbr.com
+domain-suffix:pushgrow.io
+domain-suffix:pvubank.com
+domain-suffix:pz.help
+domain-suffix:r01.ru
+domain-suffix:rabota.by
+domain-suffix:radiosputnik.ru
 domain-suffix:raiffeisen.ua
-domain-suffix:raiffeisenbank.rs
 domain-suffix:rkomi.ru
 domain-suffix:rnd.ru
 domain-suffix:rosbank.ru
@@ -111,6 +120,7 @@ domain-suffix:rutracker.net
 domain-suffix:rutracker.nl
 domain-suffix:rutracker.org
 domain-suffix:rutracker.wiki
+domain-suffix:rutrk.org
 domain-suffix:ryazan.ru
 domain-suffix:rzd.ru
 domain-suffix:sakhalin.ru
@@ -150,6 +160,7 @@ domain-suffix:ucoz.ua
 domain-suffix:ulan-ude.ru
 domain-suffix:uralsib.ru
 domain-suffix:vamzakaz.ru
+domain-suffix:vk-portal.net
 domain-suffix:vkgo.app
 domain-suffix:vklive.app
 domain-suffix:vkmessenger.app
@@ -160,24 +171,10 @@ domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
-domain-suffix:warehouse.domains
 domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:x5w.ru
-domain-suffix:yandex.pl
-domain-suffix:yandex.st
-domain-suffix:yandex.tj
-domain-suffix:yandex.tm
-domain-suffix:yandex.tr
-domain-suffix:yandex.ua
-domain-suffix:yandex.uz
-domain-suffix:yandexadexchange.net
-domain-suffix:yandexcom.net
-domain-suffix:yandexgo.com
-domain-suffix:yandexlyceum.ru
-domain-suffix:yandexmetrica.com
-domain-suffix:yandexwebcache.net
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
 domain-suffix:zdrav10.ru
