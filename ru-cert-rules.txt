@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-09-03T07:35:59.322985
-# Total: 196 base domains
+# Updated: 2026-09-03T09:16:38.040298
+# Total: 174 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -31,11 +31,9 @@ domain-suffix:cdn-service.space
 domain-suffix:cdn2cdn.com
 domain-suffix:cdn2site.com
 domain-suffix:cikrf.ru
-domain-suffix:com.pl
+domain-suffix:com.br
 domain-suffix:commerzbank.ru
-domain-suffix:comss.me
 domain-suffix:comss.net
-domain-suffix:comss.one
 domain-suffix:dagestan.ru
 domain-suffix:dahl.su
 domain-suffix:dbmoscow.ru
@@ -46,6 +44,7 @@ domain-suffix:domrfbank.ru
 domain-suffix:eadaily.info
 domain-suffix:eadaily.net
 domain-suffix:eadaily.su
+domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
 domain-suffix:gamescup.ru
 domain-suffix:gov.ru
@@ -61,17 +60,15 @@ domain-suffix:kalmykia.ru
 domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kchgov.ru
+domain-suffix:khabarovsk.ru
 domain-suffix:kinopub.online
-domain-suffix:knightspeak.com
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
 domain-suffix:krasnoyarsk.ru
 domain-suffix:kremlin.ru
 domain-suffix:ktech.team
-domain-suffix:lipetsk.ru
 domain-suffix:list.ru
 domain-suffix:magadan.ru
-domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
 domain-suffix:maintracker.org
 domain-suffix:mari.ru
@@ -88,35 +85,31 @@ domain-suffix:mordovia.ru
 domain-suffix:mtsbank.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
+domain-suffix:nalog.ru
+domain-suffix:naydex.net
+domain-suffix:neon.click
 domain-suffix:netcraze.club
+domain-suffix:netcraze.link
 domain-suffix:netcraze.pro
+domain-suffix:netmonet.co
 domain-suffix:netschool.website
 domain-suffix:nov.ru
-domain-suffix:nsk.ru
 domain-suffix:nspk.ru
-domain-suffix:o-uchi.ru
-domain-suffix:o3team.ru
-domain-suffix:obr03.ru
-domain-suffix:ocourier.ru
-domain-suffix:odkl.ru
-domain-suffix:odnoklasniki.by
-domain-suffix:odnoklasniki.ua
-domain-suffix:odnoklassniki.am
-domain-suffix:odnoklassniki.by
-domain-suffix:ok.me
 domain-suffix:omsk.ru
 domain-suffix:ozon-tech.ru
-domain-suffix:ozon.app
-domain-suffix:ozon.com
+domain-suffix:ozon.by
+domain-suffix:ozon.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
+domain-suffix:priorbank.by
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
 domain-suffix:pushgrow.io
 domain-suffix:raiffeisen.ua
+domain-suffix:rba.hr
 domain-suffix:rkomi.ru
 domain-suffix:rnd.ru
 domain-suffix:rosbank.ru
@@ -163,7 +156,6 @@ domain-suffix:tsk.ru
 domain-suffix:tula.ru
 domain-suffix:tusco.ru
 domain-suffix:ucoz.ua
-domain-suffix:ucozmedia.com
 domain-suffix:ulan-ude.ru
 domain-suffix:uralsib.ru
 domain-suffix:vamzakaz.ru
@@ -177,21 +169,7 @@ domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
-domain-suffix:wallberis.ru
-domain-suffix:warehouse.domains
-domain-suffix:watchingthehawks.com
-domain-suffix:wb-bank.ru
-domain-suffix:wb-sale.ru
-domain-suffix:wb.am
-domain-suffix:wb.kg
-domain-suffix:wb.kz
-domain-suffix:wb.ru
-domain-suffix:wbautomation.ru
-domain-suffix:wbautomation.tech
 domain-suffix:wbdubna.ru
-domain-suffix:wbkids.ru
-domain-suffix:wbmotivator.ru
-domain-suffix:wbpay.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:x5w.ru
