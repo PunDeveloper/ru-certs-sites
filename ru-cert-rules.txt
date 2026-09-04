@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-09-03T09:16:38.040298
-# Total: 174 base domains
+# Updated: 2026-09-04T06:37:51.170035
+# Total: 173 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -11,11 +11,11 @@ domain-suffix:alador.space
 domain-suffix:alfabank.ru
 domain-suffix:altai.ru
 domain-suffix:amur.ru
+domain-suffix:apiok.ru
 domain-suffix:arkhangelsk.ru
 domain-suffix:at.ua
 domain-suffix:aval.ua
 domain-suffix:avangard.ru
-domain-suffix:aversbank.ru
 domain-suffix:babki.ru
 domain-suffix:bashkiria.ru
 domain-suffix:bbr.ru
@@ -25,13 +25,13 @@ domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:capitalt.ru
 domain-suffix:carrotquest-mail.io
+domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
 domain-suffix:cdn2cdn.com
 domain-suffix:cdn2site.com
 domain-suffix:cikrf.ru
-domain-suffix:com.br
 domain-suffix:commerzbank.ru
 domain-suffix:comss.net
 domain-suffix:dagestan.ru
@@ -41,8 +41,6 @@ domain-suffix:depository.ru
 domain-suffix:dev-my.com
 domain-suffix:dialogx5.ru
 domain-suffix:domrfbank.ru
-domain-suffix:eadaily.info
-domain-suffix:eadaily.net
 domain-suffix:eadaily.su
 domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
@@ -60,7 +58,6 @@ domain-suffix:kalmykia.ru
 domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kchgov.ru
-domain-suffix:khabarovsk.ru
 domain-suffix:kinopub.online
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
@@ -85,20 +82,21 @@ domain-suffix:mordovia.ru
 domain-suffix:mtsbank.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
-domain-suffix:nalog.ru
-domain-suffix:naydex.net
-domain-suffix:neon.click
-domain-suffix:netcraze.club
 domain-suffix:netcraze.link
 domain-suffix:netcraze.pro
-domain-suffix:netmonet.co
-domain-suffix:netschool.website
+domain-suffix:ngenix.net
+domain-suffix:nic.ru
+domain-suffix:nichost.ru
+domain-suffix:nn.ru
+domain-suffix:noosferabank.ru
+domain-suffix:noticias-rt.com
+domain-suffix:notik.ru
 domain-suffix:nov.ru
 domain-suffix:nspk.ru
 domain-suffix:omsk.ru
 domain-suffix:ozon-tech.ru
-domain-suffix:ozon.by
 domain-suffix:ozon.ru
+domain-suffix:ozon.tech
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
@@ -107,9 +105,7 @@ domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
-domain-suffix:pushgrow.io
 domain-suffix:raiffeisen.ua
-domain-suffix:rba.hr
 domain-suffix:rkomi.ru
 domain-suffix:rnd.ru
 domain-suffix:rosbank.ru
@@ -126,6 +122,7 @@ domain-suffix:saratov.ru
 domain-suffix:sber-bank.by
 domain-suffix:sberbank.com
 domain-suffix:sberbank.ru
+domain-suffix:sberspasibo.ru
 domain-suffix:sbrf.ru
 domain-suffix:sinara.ru
 domain-suffix:smailru.net
@@ -133,6 +130,7 @@ domain-suffix:smarttvcdn.online
 domain-suffix:sokolov.io
 domain-suffix:solid.ru
 domain-suffix:sovcombank.ru
+domain-suffix:spasibo.market
 domain-suffix:spasibosb.ru
 domain-suffix:spb.ru
 domain-suffix:stv.ru
@@ -169,6 +167,7 @@ domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
+domain-suffix:warehouse.domains
 domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
