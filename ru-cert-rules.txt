@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-09-07T08:25:02.219675
-# Total: 168 base domains
+# Updated: 2026-09-08T07:33:59.349802
+# Total: 180 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -27,8 +27,10 @@ domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
+domain-suffix:cdn2cdn.com
+domain-suffix:cdn2site.com
 domain-suffix:cikrf.ru
-domain-suffix:co.uk
+domain-suffix:com.ge
 domain-suffix:commerzbank.ru
 domain-suffix:comss.net
 domain-suffix:dagestan.ru
@@ -44,13 +46,12 @@ domain-suffix:eadaily.su
 domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
 domain-suffix:gamescup.ru
-domain-suffix:gib.sg
 domain-suffix:gov.ru
 domain-suffix:government.ru
-domain-suffix:group-ib.us
 domain-suffix:grozny.ru
 domain-suffix:ibamoscow.ru
 domain-suffix:icq.com
+domain-suffix:imgsmail.ru
 domain-suffix:ivanovo.ru
 domain-suffix:izbirkom.ru
 domain-suffix:jamal.ru
@@ -81,25 +82,35 @@ domain-suffix:mil.ru
 domain-suffix:mkb.ru
 domain-suffix:mlbootcamp.ru
 domain-suffix:mordovia.ru
+domain-suffix:mradx.net
 domain-suffix:mtsbank.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
 domain-suffix:netcraze.club
-domain-suffix:netcraze.link
 domain-suffix:netcraze.pro
 domain-suffix:nov.ru
 domain-suffix:nspk.ru
 domain-suffix:omsk.ru
 domain-suffix:ozon-tech.ru
-domain-suffix:ozonru.eu
+domain-suffix:ozon.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
 domain-suffix:pravilno-pishem.ru
+domain-suffix:prim-edu.ru
+domain-suffix:priorbank.by
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
+domain-suffix:pskov.ru
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
+domain-suffix:public.express
+domain-suffix:pushbr.com
+domain-suffix:pushgrow.io
+domain-suffix:pvubank.com
+domain-suffix:pz.help
+domain-suffix:r01.ru
+domain-suffix:rabota.by
 domain-suffix:raiffeisen.ua
 domain-suffix:rkomi.ru
 domain-suffix:rnd.ru
@@ -161,12 +172,13 @@ domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
-domain-suffix:warehouse.domains
 domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
+domain-suffix:x5.com
+domain-suffix:x5.ru
 domain-suffix:x5w.ru
-domain-suffix:yandex.org
+domain-suffix:ya.ru
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
 domain-suffix:zdrav10.ru
