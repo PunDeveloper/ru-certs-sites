@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-09-10T08:05:33.919753
-# Total: 184 base domains
+# Updated: 2026-09-11T08:16:44.331402
+# Total: 188 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -22,7 +22,7 @@ domain-suffix:bm-bank.ru
 domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:capitalt.ru
-domain-suffix:carrotquest-mail.io
+domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
@@ -39,7 +39,7 @@ domain-suffix:dev-my.com
 domain-suffix:dialogx5.ru
 domain-suffix:domrfbank.ru
 domain-suffix:eadaily.info
-domain-suffix:esrt.site
+domain-suffix:eadaily.su
 domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
 domain-suffix:gamescup.ru
@@ -56,16 +56,15 @@ domain-suffix:kalmykia.ru
 domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kchgov.ru
-domain-suffix:khabarovsk.ru
 domain-suffix:kinopub.online
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
 domain-suffix:krasnoyarsk.ru
 domain-suffix:kremlin.ru
 domain-suffix:ktech.team
+domain-suffix:lipetsk.ru
 domain-suffix:list.ru
 domain-suffix:magadan.ru
-domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
 domain-suffix:maintracker.org
 domain-suffix:mari.ru
@@ -79,25 +78,28 @@ domain-suffix:mil.ru
 domain-suffix:mkb.ru
 domain-suffix:mlbootcamp.ru
 domain-suffix:mordovia.ru
-domain-suffix:mradx.net
 domain-suffix:mtsbank.ru
+domain-suffix:myspar.ru
+domain-suffix:mytopf.com
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
+domain-suffix:nalog.ru
+domain-suffix:naydex.net
+domain-suffix:neon.click
+domain-suffix:netcraze.club
+domain-suffix:netcraze.link
+domain-suffix:netcraze.pro
+domain-suffix:netmonet.co
+domain-suffix:netschool.website
+domain-suffix:ngenix.net
 domain-suffix:nic.ru
+domain-suffix:nn.ru
 domain-suffix:nov.ru
-domain-suffix:novosibirsk.ru
-domain-suffix:nsk.ru
 domain-suffix:nspk.ru
-domain-suffix:o-courier.ru
-domain-suffix:o-uchi.ru
-domain-suffix:o3.ru
-domain-suffix:ocourier.ru
+domain-suffix:ok.me
 domain-suffix:omsk.ru
 domain-suffix:ozon-tech.ru
-domain-suffix:ozon.com
-domain-suffix:ozon.kz
 domain-suffix:ozon.ru
-domain-suffix:ozonru.me
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
@@ -107,8 +109,8 @@ domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
+domain-suffix:pushgrow.io
 domain-suffix:raiffeisen.ua
-domain-suffix:raiffeisenbank.rs
 domain-suffix:rkomi.ru
 domain-suffix:rnd.ru
 domain-suffix:rosbank.ru
@@ -169,20 +171,22 @@ domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
+domain-suffix:wallberis.ru
 domain-suffix:warehouse.domains
+domain-suffix:watchingthehawks.com
+domain-suffix:wb-bank.ru
+domain-suffix:wb-basket.ru
+domain-suffix:wb-sale.ru
+domain-suffix:wb.am
+domain-suffix:wb.kg
+domain-suffix:wb.kz
+domain-suffix:wb.ru
+domain-suffix:wbautomation.ru
+domain-suffix:wbautomation.tech
 domain-suffix:wbdubna.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:x5w.ru
-domain-suffix:xlnk.ms
-domain-suffix:xmail.ru
-domain-suffix:xn-----6kc7adj0c9esa.com
-domain-suffix:xn----7sbaba0dc6cdn7cxcj.com
-domain-suffix:xn----7sbabae2a0bnvtsfr4loc.com
-domain-suffix:xn----7sbbab6bregnh7b8if5b.com
-domain-suffix:xn----7sbbamm1bv2bh7i.com
-domain-suffix:xn----8sbaroledu6bi7j.com
-domain-suffix:xn----8sbeoy5bze.com
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
 domain-suffix:zdrav10.ru
