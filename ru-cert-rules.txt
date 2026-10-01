@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-09-30T07:03:15.483290
-# Total: 176 base domains
+# Updated: 2026-10-01T07:03:14.727952
+# Total: 168 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -22,12 +22,14 @@ domain-suffix:bm-bank.ru
 domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:capitalt.ru
+domain-suffix:carrotquest-mail.io
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
 domain-suffix:cdn2cdn.com
 domain-suffix:cdn2site.com
 domain-suffix:cikrf.ru
+domain-suffix:cm.expert
 domain-suffix:commerzbank.ru
 domain-suffix:comss.net
 domain-suffix:dagestan.ru
@@ -35,7 +37,7 @@ domain-suffix:dbmoscow.ru
 domain-suffix:depository.ru
 domain-suffix:dialogx5.ru
 domain-suffix:domrfbank.ru
-domain-suffix:eadaily.info
+domain-suffix:eadaily.net
 domain-suffix:eadaily.su
 domain-suffix:eurasiadaily.su
 domain-suffix:f6.dev
@@ -45,7 +47,6 @@ domain-suffix:government.ru
 domain-suffix:grozny.ru
 domain-suffix:ibamoscow.ru
 domain-suffix:icq.com
-domain-suffix:imgsmail.ru
 domain-suffix:ivanovo.ru
 domain-suffix:izbirkom.ru
 domain-suffix:jamal.ru
@@ -61,6 +62,7 @@ domain-suffix:krasnodar.su
 domain-suffix:krasnoyarsk.ru
 domain-suffix:kremlin.ru
 domain-suffix:ktech.team
+domain-suffix:ligastavok.ru
 domain-suffix:list.ru
 domain-suffix:magadan.ru
 domain-suffix:mail.ru
@@ -76,38 +78,30 @@ domain-suffix:mil.ru
 domain-suffix:mkb.ru
 domain-suffix:mlbootcamp.ru
 domain-suffix:mordovia.ru
-domain-suffix:mradx.net
 domain-suffix:mtsbank.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
 domain-suffix:netcraze.club
+domain-suffix:netcraze.link
 domain-suffix:netcraze.pro
 domain-suffix:nov.ru
 domain-suffix:nspk.ru
+domain-suffix:ok.me
 domain-suffix:omsk.ru
+domain-suffix:ooc-school.ru
 domain-suffix:ozon-tech.ru
-domain-suffix:ozon.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
-domain-suffix:prim-edu.ru
 domain-suffix:primbank.ru
+domain-suffix:priorbank.by
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
-domain-suffix:public.express
-domain-suffix:pushbr.com
-domain-suffix:pushgrow.io
-domain-suffix:pvubank.com
-domain-suffix:pz.help
-domain-suffix:r01.ru
-domain-suffix:rabbitcounter.com
-domain-suffix:rabota.by
-domain-suffix:radiosputnik.ru
-domain-suffix:raiffeisen.ua
 domain-suffix:rkomi.ru
 domain-suffix:rnd.ru
+domain-suffix:ro-edu.ru
 domain-suffix:rosbank.ru
 domain-suffix:rostelecom.ru
 domain-suffix:rshb.ru
@@ -125,6 +119,7 @@ domain-suffix:sber-bank.by
 domain-suffix:sberbank.com
 domain-suffix:sberbank.ru
 domain-suffix:sbrf.ru
+domain-suffix:sgoedu74.ru
 domain-suffix:sinara.ru
 domain-suffix:smailru.net
 domain-suffix:smarttvcdn.online
@@ -155,7 +150,6 @@ domain-suffix:tsk.ru
 domain-suffix:tula.ru
 domain-suffix:ucoz.ua
 domain-suffix:ulan-ude.ru
-domain-suffix:ulyanovsk-sgo-cit73.ru
 domain-suffix:uralsib.ru
 domain-suffix:vamzakaz.ru
 domain-suffix:vkgo.app
@@ -169,11 +163,9 @@ domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.ru
 domain-suffix:vtbglobalperspectives.com
-domain-suffix:warehouse.domains
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:x5w.ru
-domain-suffix:yandex.lv
 domain-suffix:yango-b2b.com
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
