@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-10-14T06:53:48.554808
-# Total: 231 base domains
+# Updated: 2026-10-15T04:03:53.793542
+# Total: 238 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -21,8 +21,10 @@ domain-suffix:autofinancebank.ru
 domain-suffix:avangard.ru
 domain-suffix:babki.ru
 domain-suffix:bank-hlynov.ru
+domain-suffix:bankstavr.ru
 domain-suffix:bashkiria.ru
 domain-suffix:bbr.ru
+domain-suffix:beeline.tv
 domain-suffix:bir.ru
 domain-suffix:bm-bank.ru
 domain-suffix:bps-sberbank.by
@@ -42,6 +44,7 @@ domain-suffix:chelyabinsk-sgo-edu-74.ru
 domain-suffix:ciangroup.ru
 domain-suffix:cikrf.ru
 domain-suffix:coalmetbank.ru
+domain-suffix:com.am
 domain-suffix:comss.net
 domain-suffix:crediteurope.ru
 domain-suffix:creditural.ru
@@ -86,7 +89,6 @@ domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kbb.ru
 domain-suffix:kchgov.ru
-domain-suffix:khabarovsk.ru
 domain-suffix:kino.watch
 domain-suffix:kinopub.online
 domain-suffix:koshelev-bank.ru
@@ -95,12 +97,9 @@ domain-suffix:krasnodar.su
 domain-suffix:krasnoyarsk.ru
 domain-suffix:kremlin.ru
 domain-suffix:ktech.team
-domain-suffix:kubankredit.ru
-domain-suffix:kurgan.ru
 domain-suffix:list.ru
 domain-suffix:lockobank.ru
 domain-suffix:magadan.ru
-domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
 domain-suffix:maintracker.org
 domain-suffix:mari.ru
@@ -120,12 +119,12 @@ domain-suffix:mtsbank.ru
 domain-suffix:mtsmedia.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
-domain-suffix:nipbank.ru
 domain-suffix:nov.ru
 domain-suffix:novikom.ru
 domain-suffix:ns-bank.ru
 domain-suffix:nskbl.ru
 domain-suffix:nspk.ru
+domain-suffix:odnoklassniki.eu
 domain-suffix:ok.me
 domain-suffix:okbank.ru
 domain-suffix:omsk.ru
@@ -134,10 +133,7 @@ domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
 domain-suffix:primbank.ru
-domain-suffix:priobye.ru
-domain-suffix:priorbank.by
 domain-suffix:priovtb.com
-domain-suffix:prvbank.ru
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
 domain-suffix:pskb.com
@@ -209,8 +205,18 @@ domain-suffix:uralprombank.ru
 domain-suffix:uralsib.ru
 domain-suffix:vamzakaz.ru
 domain-suffix:vbrr.ru
+domain-suffix:vc.ru
 domain-suffix:veb.ru
-domain-suffix:vk-portal.net
+domain-suffix:velberis.ru
+domain-suffix:venets-bank.ru
+domain-suffix:vezet.ru
+domain-suffix:vfbank.ru
+domain-suffix:viju.ru
+domain-suffix:vildberis.ru
+domain-suffix:vimu.tv
+domain-suffix:vipmed.ru
+domain-suffix:viqeo.tv
+domain-suffix:viqeotv.com
 domain-suffix:vkfest.ru
 domain-suffix:vkgo.app
 domain-suffix:vklive.app
@@ -227,8 +233,9 @@ domain-suffix:vtbbo.ru
 domain-suffix:warehouse.domains
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
-domain-suffix:wbtek.ru
 domain-suffix:x5w.ru
+domain-suffix:yandex.eu
+domain-suffix:yandex.net
 domain-suffix:yandexwebcache.net
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
