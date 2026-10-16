@@ -1,5 +1,5 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-10-15T04:03:53.793542
+# Updated: 2026-10-16T07:04:04.519036
 # Total: 238 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
@@ -24,7 +24,6 @@ domain-suffix:bank-hlynov.ru
 domain-suffix:bankstavr.ru
 domain-suffix:bashkiria.ru
 domain-suffix:bbr.ru
-domain-suffix:beeline.tv
 domain-suffix:bir.ru
 domain-suffix:bm-bank.ru
 domain-suffix:bps-sberbank.by
@@ -32,7 +31,6 @@ domain-suffix:bspb.ru
 domain-suffix:bystrobank.ru
 domain-suffix:cap.ru
 domain-suffix:capitalt.ru
-domain-suffix:carrotquest-mail.io
 domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
@@ -41,10 +39,8 @@ domain-suffix:cdn2cdn.com
 domain-suffix:cdn2site.com
 domain-suffix:chelindbank.ru
 domain-suffix:chelyabinsk-sgo-edu-74.ru
-domain-suffix:ciangroup.ru
 domain-suffix:cikrf.ru
 domain-suffix:coalmetbank.ru
-domain-suffix:com.am
 domain-suffix:comss.net
 domain-suffix:crediteurope.ru
 domain-suffix:creditural.ru
@@ -61,7 +57,6 @@ domain-suffix:eadaily.su
 domain-suffix:emb.ru
 domain-suffix:energobank.ru
 domain-suffix:epicevents.gg
-domain-suffix:eurasiadaily.su
 domain-suffix:evrofinance.ru
 domain-suffix:eximbank.ru
 domain-suffix:expobank.ru
@@ -97,15 +92,22 @@ domain-suffix:krasnodar.su
 domain-suffix:krasnoyarsk.ru
 domain-suffix:kremlin.ru
 domain-suffix:ktech.team
+domain-suffix:kubankredit.ru
+domain-suffix:kurgan.ru
+domain-suffix:kursk.ru
+domain-suffix:kuzbank.ru
+domain-suffix:lamoda.ru
 domain-suffix:list.ru
 domain-suffix:lockobank.ru
 domain-suffix:magadan.ru
+domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
 domain-suffix:maintracker.org
 domain-suffix:mari.ru
 domain-suffix:marine.ru
 domain-suffix:medsi.pro
 domain-suffix:megafon.com
+domain-suffix:megamarket.tech
 domain-suffix:metallinvestbank.ru
 domain-suffix:mfk-bank.ru
 domain-suffix:mfk-t-finance.ru
@@ -119,13 +121,13 @@ domain-suffix:mtsbank.ru
 domain-suffix:mtsmedia.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
+domain-suffix:netschool.website
 domain-suffix:nov.ru
 domain-suffix:novikom.ru
 domain-suffix:ns-bank.ru
 domain-suffix:nskbl.ru
 domain-suffix:nspk.ru
-domain-suffix:odnoklassniki.eu
-domain-suffix:ok.me
+domain-suffix:ok.ru
 domain-suffix:okbank.ru
 domain-suffix:omsk.ru
 domain-suffix:orbank.ru
@@ -133,6 +135,7 @@ domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
 domain-suffix:primbank.ru
+domain-suffix:priorbank.by
 domain-suffix:priovtb.com
 domain-suffix:psb.ru
 domain-suffix:psbank.ru
@@ -163,6 +166,7 @@ domain-suffix:sberbank.ru
 domain-suffix:sbrf.ru
 domain-suffix:sdm.ru
 domain-suffix:sgoedu74.ru
+domain-suffix:shedevrum.ai
 domain-suffix:sibsoc.ru
 domain-suffix:sinara.ru
 domain-suffix:smailru.net
@@ -171,7 +175,6 @@ domain-suffix:sngb.ru
 domain-suffix:sokolov.io
 domain-suffix:solid.ru
 domain-suffix:sovcombank.ru
-domain-suffix:spasibosb.ru
 domain-suffix:spb.ru
 domain-suffix:spbexchange.ru
 domain-suffix:stv.ru
@@ -193,11 +196,21 @@ domain-suffix:tkbbank.ru
 domain-suffix:tochka-tech.com
 domain-suffix:tochka.com
 domain-suffix:tom.ru
+domain-suffix:tsaritsyn.ru
 domain-suffix:tsk.ru
 domain-suffix:tula.ru
 domain-suffix:turbopages.org
 domain-suffix:ubrr.ru
+domain-suffix:ucoz.md
 domain-suffix:ucoz.ua
+domain-suffix:ucozmedia.com
+domain-suffix:ucoztemplates.com
+domain-suffix:udm.ru
+domain-suffix:udmurtia.ru
+domain-suffix:ukit.ai
+domain-suffix:ukit.com
+domain-suffix:ukit.group
+domain-suffix:ukit.me
 domain-suffix:ulan-ude.ru
 domain-suffix:ulyanovsk-sgo-cit73.ru
 domain-suffix:united.ru
@@ -205,19 +218,8 @@ domain-suffix:uralprombank.ru
 domain-suffix:uralsib.ru
 domain-suffix:vamzakaz.ru
 domain-suffix:vbrr.ru
-domain-suffix:vc.ru
 domain-suffix:veb.ru
-domain-suffix:velberis.ru
-domain-suffix:venets-bank.ru
-domain-suffix:vezet.ru
-domain-suffix:vfbank.ru
-domain-suffix:viju.ru
-domain-suffix:vildberis.ru
-domain-suffix:vimu.tv
-domain-suffix:vipmed.ru
-domain-suffix:viqeo.tv
 domain-suffix:viqeotv.com
-domain-suffix:vkfest.ru
 domain-suffix:vkgo.app
 domain-suffix:vklive.app
 domain-suffix:vkmessenger.app
@@ -234,8 +236,6 @@ domain-suffix:warehouse.domains
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:x5w.ru
-domain-suffix:yandex.eu
-domain-suffix:yandex.net
 domain-suffix:yandexwebcache.net
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
