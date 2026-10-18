@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-10-17T04:03:21.225582
-# Total: 222 base domains
+# Updated: 2026-10-18T07:03:27.350536
+# Total: 233 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -24,13 +24,14 @@ domain-suffix:bank-hlynov.ru
 domain-suffix:bankstavr.ru
 domain-suffix:bashkiria.ru
 domain-suffix:bbr.ru
+domain-suffix:beget.pro
 domain-suffix:bir.ru
 domain-suffix:bm-bank.ru
 domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:bystrobank.ru
+domain-suffix:cap.ru
 domain-suffix:capitalt.ru
-domain-suffix:carrotquest-mail.io
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
@@ -50,11 +51,13 @@ domain-suffix:derzhava.ru
 domain-suffix:dialogx5.ru
 domain-suffix:domrfbank.ru
 domain-suffix:dvbank.ru
+domain-suffix:eadaily.info
 domain-suffix:eadaily.net
 domain-suffix:eadaily.su
 domain-suffix:emb.ru
 domain-suffix:energobank.ru
 domain-suffix:epicevents.gg
+domain-suffix:eurasiadaily.su
 domain-suffix:evrofinance.ru
 domain-suffix:eximbank.ru
 domain-suffix:expobank.ru
@@ -82,6 +85,7 @@ domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kbb.ru
 domain-suffix:kchgov.ru
+domain-suffix:khabarovsk.ru
 domain-suffix:kino.watch
 domain-suffix:kinopub.online
 domain-suffix:koshelev-bank.ru
@@ -90,16 +94,13 @@ domain-suffix:krasnodar.su
 domain-suffix:krasnoyarsk.ru
 domain-suffix:kremlin.ru
 domain-suffix:ktech.team
+domain-suffix:kuban.ru
 domain-suffix:kubankredit.ru
 domain-suffix:kurgan.ru
-domain-suffix:kursk.ru
-domain-suffix:kuzbank.ru
-domain-suffix:lamoda.ru
-domain-suffix:lanta.ru
-domain-suffix:lenta.com
 domain-suffix:list.ru
 domain-suffix:lockobank.ru
 domain-suffix:magadan.ru
+domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
 domain-suffix:maintracker.org
 domain-suffix:mari.ru
@@ -138,6 +139,7 @@ domain-suffix:psbank.ru
 domain-suffix:pskb.com
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
+domain-suffix:pushgrow.io
 domain-suffix:raiffeisen.ua
 domain-suffix:rdb.ru
 domain-suffix:rkomi.ru
@@ -190,6 +192,7 @@ domain-suffix:tkbbank.ru
 domain-suffix:tochka-tech.com
 domain-suffix:tochka.com
 domain-suffix:tom.ru
+domain-suffix:transstroybank.ru
 domain-suffix:tsk.ru
 domain-suffix:tula.ru
 domain-suffix:turbopages.org
@@ -204,19 +207,27 @@ domain-suffix:vamzakaz.ru
 domain-suffix:vbrr.ru
 domain-suffix:veb.ru
 domain-suffix:viqeotv.com
+domain-suffix:vk-portal.net
+domain-suffix:vk.link
 domain-suffix:vkgo.app
 domain-suffix:vklive.app
 domain-suffix:vkmessenger.app
 domain-suffix:vkmessenger.com
 domain-suffix:vkuser.net
+domain-suffix:vkuseraudio.com
+domain-suffix:vkuseraudio.net
+domain-suffix:vkuseraudio.ru
 domain-suffix:vkusercdn.ru
+domain-suffix:vkuserphoto.ru
+domain-suffix:vkuservideo.com
+domain-suffix:vkuservideo.net
+domain-suffix:vkuservideo.ru
 domain-suffix:vladikavkaz.ru
 domain-suffix:vladimir.ru
 domain-suffix:volgograd.ru
 domain-suffix:vtb.com
 domain-suffix:vtb.ru
 domain-suffix:vtbbo.ru
-domain-suffix:warehouse.domains
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:x5w.ru
