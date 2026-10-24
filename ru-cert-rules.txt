@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-10-23T04:04:55.150465
-# Total: 252 base domains
+# Updated: 2026-10-24T07:03:34.885833
+# Total: 244 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -31,8 +31,6 @@ domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:bystrobank.ru
 domain-suffix:capitalt.ru
-domain-suffix:carrotquest-mail.io
-domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
@@ -60,6 +58,7 @@ domain-suffix:eadaily.net
 domain-suffix:eadaily.su
 domain-suffix:eligens.cl
 domain-suffix:emb.ru
+domain-suffix:energobank.ru
 domain-suffix:epicevents.gg
 domain-suffix:eurasiadaily.su
 domain-suffix:evrofinance.ru
@@ -81,6 +80,7 @@ domain-suffix:itb.ru
 domain-suffix:ivanovo.ru
 domain-suffix:izbirkom.ru
 domain-suffix:jamal.ru
+domain-suffix:jfn.su
 domain-suffix:jpmorgan.ru
 domain-suffix:k-bnk.ru
 domain-suffix:kalmykia.ru
@@ -88,10 +88,10 @@ domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kbb.ru
 domain-suffix:kchgov.ru
-domain-suffix:khabarovsk.ru
 domain-suffix:khakassia.ru
 domain-suffix:kino.watch
 domain-suffix:kinopub.online
+domain-suffix:koenig.ru
 domain-suffix:koshelev-bank.ru
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
@@ -101,6 +101,7 @@ domain-suffix:ktech.team
 domain-suffix:list.ru
 domain-suffix:lockobank.ru
 domain-suffix:magadan.ru
+domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
 domain-suffix:maintracker.org
 domain-suffix:mari.ru
@@ -126,6 +127,7 @@ domain-suffix:novikom.ru
 domain-suffix:ns-bank.ru
 domain-suffix:nskbl.ru
 domain-suffix:nspk.ru
+domain-suffix:ok.me
 domain-suffix:okbank.ru
 domain-suffix:omsk.ru
 domain-suffix:orbank.ru
@@ -133,7 +135,6 @@ domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
 domain-suffix:primbank.ru
-domain-suffix:priorbank.by
 domain-suffix:priovtb.com
 domain-suffix:psbank.ru
 domain-suffix:pskb.com
@@ -166,8 +167,16 @@ domain-suffix:sgo-egov66.ru
 domain-suffix:sgoedu74.ru
 domain-suffix:sibsoc.ru
 domain-suffix:sinara.ru
+domain-suffix:slc.tl
 domain-suffix:smailru.net
+domain-suffix:smartmed.pro
 domain-suffix:smarttvcdn.online
+domain-suffix:smbcr-bank.ru
+domain-suffix:smbfin.ru
+domain-suffix:smena.cafe
+domain-suffix:smolensk.ru
+domain-suffix:smotreshka.tv
+domain-suffix:snbank.ru
 domain-suffix:sngb.ru
 domain-suffix:sokolov.io
 domain-suffix:solid.ru
@@ -193,7 +202,6 @@ domain-suffix:tochka-tech.com
 domain-suffix:tochka.com
 domain-suffix:tom.ru
 domain-suffix:tomedu.ru
-domain-suffix:tsaritsyn.ru
 domain-suffix:tsk.ru
 domain-suffix:tula.ru
 domain-suffix:turbopages.org
@@ -205,23 +213,10 @@ domain-suffix:united.ru
 domain-suffix:uralprombank.ru
 domain-suffix:uralsib.ru
 domain-suffix:userapi.com
-domain-suffix:userapi.ru
-domain-suffix:uteka.ru
 domain-suffix:vamzakaz.ru
 domain-suffix:vbrr.ru
-domain-suffix:vc.ru
 domain-suffix:veb.ru
-domain-suffix:velberis.ru
-domain-suffix:venets-bank.ru
-domain-suffix:vezet.ru
-domain-suffix:vfbank.ru
-domain-suffix:viju.ru
-domain-suffix:vildberis.ru
-domain-suffix:vimu.tv
-domain-suffix:vipmed.ru
-domain-suffix:viqeo.tv
 domain-suffix:viqeotv.com
-domain-suffix:vk.design
 domain-suffix:vk.link
 domain-suffix:vkclips.app
 domain-suffix:vkgo.app
@@ -243,13 +238,10 @@ domain-suffix:volgograd.ru
 domain-suffix:vtb.com
 domain-suffix:vtb.ru
 domain-suffix:vtbbo.ru
+domain-suffix:warehouse.domains
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:x5w.ru
-domain-suffix:xn--90aifd0az.shop
-domain-suffix:xn--b1aechhj6bof8g5a.site
-domain-suffix:xn--d1abkf4ap.fun
-domain-suffix:xn--h1ao.site
 domain-suffix:yandexwebcache.net
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
