@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-10-25T04:03:46.718339
-# Total: 239 base domains
+# Updated: 2026-10-26T07:03:41.473437
+# Total: 236 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -14,14 +14,12 @@ domain-suffix:alador.space
 domain-suffix:alfabank.ru
 domain-suffix:altai.ru
 domain-suffix:amur.ru
-domain-suffix:apiok.ru
 domain-suffix:apkbank.ru
 domain-suffix:arkhangelsk.ru
 domain-suffix:at.ua
 domain-suffix:autofinancebank.ru
 domain-suffix:avangard.ru
 domain-suffix:babki.ru
-domain-suffix:bank-arzamas.ru
 domain-suffix:bank-hlynov.ru
 domain-suffix:bankstavr.ru
 domain-suffix:bashkiria.ru
@@ -33,8 +31,6 @@ domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:bystrobank.ru
 domain-suffix:capitalt.ru
-domain-suffix:carrotquest-mail.io
-domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
 domain-suffix:cdn-service.space
@@ -48,7 +44,6 @@ domain-suffix:com.br
 domain-suffix:comss.net
 domain-suffix:crediteurope.ru
 domain-suffix:creditural.ru
-domain-suffix:crimea.ru
 domain-suffix:dagestan.ru
 domain-suffix:dbmoscow.ru
 domain-suffix:depository.ru
@@ -59,12 +54,12 @@ domain-suffix:digitalwb.ru
 domain-suffix:domrfbank.ru
 domain-suffix:dvbank.ru
 domain-suffix:eadaily.info
+domain-suffix:eadaily.net
 domain-suffix:eadaily.su
 domain-suffix:eligens.cl
 domain-suffix:emb.ru
 domain-suffix:energobank.ru
 domain-suffix:epicevents.gg
-domain-suffix:eurasiadaily.su
 domain-suffix:evrofinance.ru
 domain-suffix:eximbank.ru
 domain-suffix:expobank.ru
@@ -80,11 +75,12 @@ domain-suffix:grozny.ru
 domain-suffix:ibamoscow.ru
 domain-suffix:icq.com
 domain-suffix:isnbank.ru
+domain-suffix:it-picnic.ru
+domain-suffix:it-piknik.ru
 domain-suffix:itb.ru
 domain-suffix:ivanovo.ru
 domain-suffix:izbirkom.ru
 domain-suffix:jamal.ru
-domain-suffix:jfn.su
 domain-suffix:jpmorgan.ru
 domain-suffix:k-bnk.ru
 domain-suffix:kalmykia.ru
@@ -92,10 +88,10 @@ domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kbb.ru
 domain-suffix:kchgov.ru
+domain-suffix:khabarovsk.ru
 domain-suffix:khakassia.ru
 domain-suffix:kino.watch
 domain-suffix:kinopub.online
-domain-suffix:koenig.ru
 domain-suffix:koshelev-bank.ru
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
@@ -138,7 +134,6 @@ domain-suffix:paywb.ru
 domain-suffix:perm.ru
 domain-suffix:pochtabank.ru
 domain-suffix:primbank.ru
-domain-suffix:priorbank.by
 domain-suffix:priovtb.com
 domain-suffix:psbank.ru
 domain-suffix:pskb.com
@@ -163,7 +158,6 @@ domain-suffix:ryazan.ru
 domain-suffix:rzd.ru
 domain-suffix:sakhalin.ru
 domain-suffix:saratov.ru
-domain-suffix:sber-bank.by
 domain-suffix:sberbank.com
 domain-suffix:sberbank.ru
 domain-suffix:sbrf.ru
@@ -189,8 +183,8 @@ domain-suffix:t-human.ru
 domain-suffix:t-ofp.ru
 domain-suffix:tatsotsbank.ru
 domain-suffix:tbank.ru
-domain-suffix:tconf.ru
 domain-suffix:thbank.ru
+domain-suffix:tinkoff-edu.ru
 domain-suffix:tinkoff.ru
 domain-suffix:tinkoffcapital.ru
 domain-suffix:tinkoffmobile.com
@@ -198,7 +192,6 @@ domain-suffix:tkbbank.ru
 domain-suffix:tochka-tech.com
 domain-suffix:tochka.com
 domain-suffix:tom.ru
-domain-suffix:tomedu.ru
 domain-suffix:tsk.ru
 domain-suffix:tula.ru
 domain-suffix:turbopages.org
@@ -206,15 +199,19 @@ domain-suffix:ubrr.ru
 domain-suffix:ucoz.ua
 domain-suffix:ulan-ude.ru
 domain-suffix:ulyanovsk-sgo-cit73.ru
+domain-suffix:unidraw.io
 domain-suffix:united.ru
 domain-suffix:uralprombank.ru
 domain-suffix:uralsib.ru
+domain-suffix:userapi.com
 domain-suffix:userapi.ru
 domain-suffix:vamzakaz.ru
 domain-suffix:vbrr.ru
 domain-suffix:veb.ru
 domain-suffix:viqeotv.com
-domain-suffix:vk.link
+domain-suffix:vk-portal.net
+domain-suffix:vk.design
+domain-suffix:vkclips.app
 domain-suffix:vkgo.app
 domain-suffix:vklive.app
 domain-suffix:vkmessenger.app
