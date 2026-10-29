@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-10-28T05:28:22.226943
-# Total: 240 base domains
+# Updated: 2026-10-29T07:03:42.636027
+# Total: 235 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -31,6 +31,7 @@ domain-suffix:bps-sberbank.by
 domain-suffix:bspb.ru
 domain-suffix:bystrobank.ru
 domain-suffix:capitalt.ru
+domain-suffix:carrotquest-mail.io
 domain-suffix:carrotquest.app
 domain-suffix:cbg.ru
 domain-suffix:ccb.com
@@ -54,6 +55,7 @@ domain-suffix:digital-wb.ru
 domain-suffix:digitalwb.ru
 domain-suffix:domrfbank.ru
 domain-suffix:dvbank.ru
+domain-suffix:eadaily.info
 domain-suffix:eadaily.net
 domain-suffix:eadaily.su
 domain-suffix:eligens.cl
@@ -75,6 +77,8 @@ domain-suffix:government.ru
 domain-suffix:grozny.ru
 domain-suffix:ibamoscow.ru
 domain-suffix:icq.com
+domain-suffix:icq.org
+domain-suffix:icqvideo.com
 domain-suffix:isnbank.ru
 domain-suffix:itb.ru
 domain-suffix:ivanovo.ru
@@ -87,7 +91,6 @@ domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kbb.ru
 domain-suffix:kchgov.ru
-domain-suffix:khabarovsk.ru
 domain-suffix:kino.watch
 domain-suffix:kinopub.online
 domain-suffix:koshelev-bank.ru
@@ -120,7 +123,6 @@ domain-suffix:mtsbank.ru
 domain-suffix:mtsmedia.ru
 domain-suffix:mytrk.link
 domain-suffix:nalchik.ru
-domain-suffix:netschool.website
 domain-suffix:nov.ru
 domain-suffix:novikom.ru
 domain-suffix:ns-bank.ru
@@ -131,14 +133,15 @@ domain-suffix:omsk.ru
 domain-suffix:orbank.ru
 domain-suffix:paywb.ru
 domain-suffix:perm.ru
+domain-suffix:pishi-pravilno.ru
 domain-suffix:pochtabank.ru
 domain-suffix:primbank.ru
+domain-suffix:priorbank.by
 domain-suffix:priovtb.com
 domain-suffix:psbank.ru
 domain-suffix:pskb.com
 domain-suffix:ptsecurity.com
 domain-suffix:ptz.ru
-domain-suffix:pushgrow.io
 domain-suffix:raiffeisen.ua
 domain-suffix:rdb.ru
 domain-suffix:rkomi.ru
@@ -179,14 +182,7 @@ domain-suffix:t-bank-app.ru
 domain-suffix:t-bank-app.su
 domain-suffix:t-finance.group
 domain-suffix:t-human.ru
-domain-suffix:t-investlab.ru
-domain-suffix:t-j.ru
 domain-suffix:t-ofp.ru
-domain-suffix:t-stekovka.ru
-domain-suffix:t-tech.dev
-domain-suffix:t-tech.ru
-domain-suffix:t-tech.team
-domain-suffix:t-technologies.ru
 domain-suffix:tatsotsbank.ru
 domain-suffix:tbank.ru
 domain-suffix:thbank.ru
@@ -212,9 +208,8 @@ domain-suffix:vamzakaz.ru
 domain-suffix:vbrr.ru
 domain-suffix:veb.ru
 domain-suffix:viqeotv.com
-domain-suffix:vk-portal.net
-domain-suffix:vk.design
 domain-suffix:vk.link
+domain-suffix:vkclips.app
 domain-suffix:vkgo.app
 domain-suffix:vklive.app
 domain-suffix:vkmessenger.app
@@ -224,6 +219,7 @@ domain-suffix:vkuseraudio.com
 domain-suffix:vkuseraudio.net
 domain-suffix:vkuseraudio.ru
 domain-suffix:vkusercdn.ru
+domain-suffix:vkuserphoto.ru
 domain-suffix:vkuservideo.com
 domain-suffix:vkuservideo.net
 domain-suffix:vkuservideo.ru
@@ -237,7 +233,6 @@ domain-suffix:warehouse.domains
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:x5w.ru
-domain-suffix:yamal.ru
 domain-suffix:yandexwebcache.net
 domain-suffix:yango-team.com
 domain-suffix:yaroslavl.ru
