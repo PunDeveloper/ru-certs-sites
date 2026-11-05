@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-11-04T07:15:45.453429
-# Total: 258 base domains
+# Updated: 2026-11-05T04:04:19.997691
+# Total: 245 base domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:abr.ru
@@ -27,7 +27,6 @@ domain-suffix:bankstavr.ru
 domain-suffix:bashkiria.ru
 domain-suffix:bbr.ru
 domain-suffix:beget.app
-domain-suffix:beget.com
 domain-suffix:beget.pro
 domain-suffix:beget.tech
 domain-suffix:begetcdn.cloud
@@ -44,9 +43,7 @@ domain-suffix:cdn-service.space
 domain-suffix:cdn2cdn.com
 domain-suffix:cdn2site.com
 domain-suffix:chelindbank.ru
-domain-suffix:chelyabinsk-sgo-edu-74.ru
 domain-suffix:cikrf.ru
-domain-suffix:clstorage.net
 domain-suffix:coalmetbank.ru
 domain-suffix:com.br
 domain-suffix:comss.net
@@ -63,7 +60,6 @@ domain-suffix:digitalwb.ru
 domain-suffix:domrfbank.ru
 domain-suffix:dvbank.ru
 domain-suffix:eadaily.info
-domain-suffix:eadaily.su
 domain-suffix:eligens.cl
 domain-suffix:emb.ru
 domain-suffix:energobank.ru
@@ -96,20 +92,9 @@ domain-suffix:kaspersky-labs.com
 domain-suffix:kaspersky.com
 domain-suffix:kbb.ru
 domain-suffix:kchgov.ru
-domain-suffix:khakassia.ru
+domain-suffix:khabarovsk.ru
 domain-suffix:kino.watch
-domain-suffix:kinopoisk.ru
 domain-suffix:kinopub.online
-domain-suffix:kinorium.com
-domain-suffix:kion.ru
-domain-suffix:kirov.ru
-domain-suffix:klinikabudzdorov.ru
-domain-suffix:knightspeak.com
-domain-suffix:kod.ru
-domain-suffix:koddobra.ru
-domain-suffix:koenig.ru
-domain-suffix:kontur-inc.com
-domain-suffix:koronapay.com
 domain-suffix:koshelev-bank.ru
 domain-suffix:kostroma.ru
 domain-suffix:krasnodar.su
@@ -119,7 +104,6 @@ domain-suffix:ktech.team
 domain-suffix:list.ru
 domain-suffix:lockobank.ru
 domain-suffix:magadan.ru
-domain-suffix:mail-carrotquest.io
 domain-suffix:mail.ru
 domain-suffix:maintracker.org
 domain-suffix:mari.ru
@@ -146,6 +130,7 @@ domain-suffix:novikom.ru
 domain-suffix:ns-bank.ru
 domain-suffix:nskbl.ru
 domain-suffix:nspk.ru
+domain-suffix:ok.me
 domain-suffix:okbank.ru
 domain-suffix:omsk.ru
 domain-suffix:orbank.ru
@@ -175,14 +160,12 @@ domain-suffix:rutracker.org
 domain-suffix:rutracker.wiki
 domain-suffix:ryazan.ru
 domain-suffix:rzd.ru
-domain-suffix:safeliner.tech
 domain-suffix:sakhalin.ru
 domain-suffix:saratov.ru
 domain-suffix:sberbank.com
 domain-suffix:sberbank.ru
 domain-suffix:sbrf.ru
 domain-suffix:sdm.ru
-domain-suffix:selkombank.ru
 domain-suffix:sgo-egov66.ru
 domain-suffix:sgoedu74.ru
 domain-suffix:sibsoc.ru
@@ -213,26 +196,28 @@ domain-suffix:tinkoffmobile.com
 domain-suffix:tkbbank.ru
 domain-suffix:tochka-tech.com
 domain-suffix:tochka.com
+domain-suffix:tok.media
+domain-suffix:tokenator.top
 domain-suffix:tom.ru
+domain-suffix:tomedu.ru
+domain-suffix:tomsk.ru
+domain-suffix:toyota-bank.ru
+domain-suffix:tpension.ru
+domain-suffix:trace-flow.ru
 domain-suffix:tsk.ru
 domain-suffix:tula.ru
 domain-suffix:turbopages.org
 domain-suffix:ubrr.ru
-domain-suffix:uchilk.ru
 domain-suffix:ucoz.ua
 domain-suffix:ulan-ude.ru
 domain-suffix:ulyanovsk-sgo-cit73.ru
 domain-suffix:united.ru
 domain-suffix:uralprombank.ru
 domain-suffix:uralsib.ru
-domain-suffix:userapi.com
-domain-suffix:userapi.ru
 domain-suffix:vamzakaz.ru
 domain-suffix:vbrr.ru
 domain-suffix:veb.ru
 domain-suffix:viqeotv.com
-domain-suffix:vk.design
-domain-suffix:vk.link
 domain-suffix:vkgo.app
 domain-suffix:vklive.app
 domain-suffix:vkmessenger.app
@@ -254,6 +239,8 @@ domain-suffix:volgograd.ru
 domain-suffix:vtb.com
 domain-suffix:vtb.ru
 domain-suffix:vtbbo.ru
+domain-suffix:warehouse.domains
+domain-suffix:wb.ru
 domain-suffix:wbstatic.net
 domain-suffix:wbstatic.ru
 domain-suffix:x5w.ru
