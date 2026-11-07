@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-11-06T20:03:54.579428
-# Total: 4374 registrable domains
+# Updated: 2026-11-07T07:43:51.208213
+# Total: 4373 registrable domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:04gov.ru
@@ -1781,7 +1781,6 @@ domain-suffix:ledovski.com
 domain-suffix:legalcdn.org
 domain-suffix:lei-code.ru
 domain-suffix:lekar-deti.ru
-domain-suffix:lemark.su
 domain-suffix:lemondate.ru
 domain-suffix:lenenergo.ru
 domain-suffix:lenoblbti.ru
@@ -3792,7 +3791,6 @@ domain-suffix:usolie-sibirskoe.ru
 domain-suffix:uspekh.ru
 domain-suffix:ussc.ru
 domain-suffix:utable.ru
-domain-suffix:utalk.su
 domain-suffix:utg-express.ru
 domain-suffix:utg.group
 domain-suffix:utk.ru
@@ -4358,6 +4356,7 @@ domain-suffix:zest.ru
 domain-suffix:zgr.im
 domain-suffix:zhilservis-ketovo.ru
 domain-suffix:zhivagobank.ru
+domain-suffix:zidane1511.fun
 domain-suffix:zm-solutions.ru
 domain-suffix:zmtech.bz
 domain-suffix:znai.tech
