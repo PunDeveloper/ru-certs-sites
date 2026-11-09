@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-11-07T07:43:51.208213
-# Total: 4373 registrable domains
+# Updated: 2026-11-09T04:43:41.855694
+# Total: 4350 registrable domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:04gov.ru
@@ -71,15 +71,12 @@ domain-suffix:absolutins.ru
 domain-suffix:absoluttrade.ru
 domain-suffix:absolutvip.ru
 domain-suffix:ac.gov.ru
-domain-suffix:academcity.ru
-domain-suffix:academresource.online
 domain-suffix:acapital-am.ru
 domain-suffix:accidentlaw.ru
 domain-suffix:ach.gov.ru
 domain-suffix:achimdevelopment.com
 domain-suffix:achimdevelopment.ru
 domain-suffix:achimgaz.ru
-domain-suffix:ack-it.online
 domain-suffix:acptl.ru
 domain-suffix:acti.ru
 domain-suffix:activebc.ru
@@ -103,7 +100,6 @@ domain-suffix:admship.ru
 domain-suffix:admsurgut.ru
 domain-suffix:admsvtl.ru
 domain-suffix:admtyumen.ru
-domain-suffix:adpo-edu.ru
 domain-suffix:adygheya.ru
 domain-suffix:aeromax-group.ru
 domain-suffix:aeromax.pro
@@ -447,6 +443,7 @@ domain-suffix:blume.dating
 domain-suffix:blutz.ru
 domain-suffix:bm-bank.ru
 domain-suffix:bmki.ru
+domain-suffix:bmw-vidnoe.ru
 domain-suffix:bnal.ru
 domain-suffix:bnnapp.com
 domain-suffix:bnpltests.ru
@@ -795,7 +792,6 @@ domain-suffix:direct-credit.ru
 domain-suffix:directstar.ru
 domain-suffix:disc-o.cloud
 domain-suffix:displayart.ru
-domain-suffix:distant-college.ru
 domain-suffix:distant.global
 domain-suffix:dixy.ru
 domain-suffix:dk-pay.dev
@@ -887,7 +883,6 @@ domain-suffix:ecospher.ru
 domain-suffix:ecoteo.ru
 domain-suffix:ecoturcentr.ru
 domain-suffix:ecvida.ru
-domain-suffix:ed-industry.ru
 domain-suffix:ed2inteh.ru
 domain-suffix:eda.ru
 domain-suffix:edc-electronics.ru
@@ -901,8 +896,6 @@ domain-suffix:edinros.ru
 domain-suffix:edocom.ru
 domain-suffix:edscontrol.ru
 domain-suffix:edtechpro.ru
-domain-suffix:edu-assist.me
-domain-suffix:edu-assist.ru
 domain-suffix:edu-penza.ru
 domain-suffix:edu.gov.ru
 domain-suffix:edu35.ru
@@ -1016,7 +1009,6 @@ domain-suffix:exiar.ru
 domain-suffix:exibank.ru
 domain-suffix:eximbank.ru
 domain-suffix:exolve.ru
-domain-suffix:exp-space.ru
 domain-suffix:expert-insapp.ru
 domain-suffix:expertvoice.ru
 domain-suffix:expobank.ru
@@ -1409,9 +1401,7 @@ domain-suffix:hr-abk.ru
 domain-suffix:hronikivremeni.ru
 domain-suffix:hva.im
 domain-suffix:hycl.ru
-domain-suffix:i-college.ru
 domain-suffix:i-exam.ru
-domain-suffix:i-spo.ru
 domain-suffix:iac.spb.ru
 domain-suffix:ibam.ru
 domain-suffix:ibam24.ru
@@ -1531,7 +1521,6 @@ domain-suffix:iotjai.com
 domain-suffix:ipfran.ru
 domain-suffix:ipk19.ru
 domain-suffix:ippay.ru
-domain-suffix:ippss.ru
 domain-suffix:ipsnok.ru
 domain-suffix:irao-engineering.ru
 domain-suffix:irao-generation.ru
@@ -1911,7 +1900,6 @@ domain-suffix:mcbank.ru
 domain-suffix:mcbankrus.ru
 domain-suffix:mcbteam.ru
 domain-suffix:mcclinics.ru
-domain-suffix:mcdo.moscow
 domain-suffix:mchs.gov.ru
 domain-suffix:mchs.ru
 domain-suffix:mco-panacea.ru
@@ -2166,7 +2154,6 @@ domain-suffix:nalog.gov.ru
 domain-suffix:namex.org
 domain-suffix:nami.ru
 domain-suffix:napalabs.ru
-domain-suffix:narhsi.ru
 domain-suffix:narkolog-help-24.ru
 domain-suffix:narnis.ru
 domain-suffix:nashvybor.online
@@ -2210,7 +2197,6 @@ domain-suffix:nic-itep.ru
 domain-suffix:nico-bank.ru
 domain-suffix:nii-kpg.ru
 domain-suffix:nii-vektor.ru
-domain-suffix:niidpo.ru
 domain-suffix:niig.su
 domain-suffix:niineptun.ru
 domain-suffix:niip.ru
@@ -2510,9 +2496,7 @@ domain-suffix:paymentkit.ru
 domain-suffix:paymgate.ru
 domain-suffix:paywb.com
 domain-suffix:pbprog.ru
-domain-suffix:pcbltools.ru
 domain-suffix:pchtbnk.ru
-domain-suffix:pentaschool.ru
 domain-suffix:perecle.ru
 domain-suffix:perepis2002.ru
 domain-suffix:peretok.ru
@@ -2924,7 +2908,6 @@ domain-suffix:rusbsbank.ru
 domain-suffix:ruselectronics.ru
 domain-suffix:rusfincorp.ru
 domain-suffix:ruslegassistens.ru
-domain-suffix:rusprof.ru
 domain-suffix:rusprofile.ru
 domain-suffix:rusradio.ru
 domain-suffix:russiacalling.com
@@ -3036,7 +3019,6 @@ domain-suffix:sberbuild.ru
 domain-suffix:sberbusiness.live
 domain-suffix:sbercib.ru
 domain-suffix:sbercity.ru
-domain-suffix:sberclass.ru
 domain-suffix:sbercloud.com
 domain-suffix:sbercloud.org
 domain-suffix:sbercloud.ru
@@ -3074,15 +3056,12 @@ domain-suffix:sberpravo.tech
 domain-suffix:sberscan.ru
 domain-suffix:sberseller.ru
 domain-suffix:sbershop.ru
-domain-suffix:sbersova.ru
 domain-suffix:sberspasibo.ru
 domain-suffix:sbertech.ru
 domain-suffix:sbertransport.ru
 domain-suffix:sbertroika.ru
 domain-suffix:sbertroika.tech
 domain-suffix:sbertv.ru
-domain-suffix:sberum.education
-domain-suffix:sberum.pro
 domain-suffix:sberunity.ru
 domain-suffix:sberuniversity.online
 domain-suffix:sberuniversity.ru
@@ -3782,7 +3761,6 @@ domain-suffix:uralmash-kartex.ru
 domain-suffix:uralprombank.ru
 domain-suffix:uralsib.ru
 domain-suffix:ureguliryi.ru
-domain-suffix:urgaps.ru
 domain-suffix:userapi.com
 domain-suffix:usergate.com
 domain-suffix:usla.ru
@@ -3844,7 +3822,6 @@ domain-suffix:vestnik-bratsk.ru
 domain-suffix:vestnik-gosreg.ru
 domain-suffix:vetstav.ru
 domain-suffix:vfbank.ru
-domain-suffix:vgaps.ru
 domain-suffix:vgltu.ru
 domain-suffix:viaso.ru
 domain-suffix:video-vk.org
