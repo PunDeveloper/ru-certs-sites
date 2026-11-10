@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-11-09T04:43:41.855694
-# Total: 4350 registrable domains
+# Updated: 2026-11-10T07:46:02.649228
+# Total: 4352 registrable domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:04gov.ru
@@ -121,6 +121,7 @@ domain-suffix:ai-bank.ru
 domain-suffix:ai-journey.ru
 domain-suffix:ai-mark.ru
 domain-suffix:ai-vesna.ru
+domain-suffix:ai.gov.ru
 domain-suffix:ai72.ru
 domain-suffix:aiandhit.ru
 domain-suffix:aiandru.ru
@@ -270,7 +271,6 @@ domain-suffix:ast-ins.ru
 domain-suffix:astais.ru
 domain-suffix:astcsm.ru
 domain-suffix:asterium.ru
-domain-suffix:asterx23.ru
 domain-suffix:astgoz.ru
 domain-suffix:astk-insur.ru
 domain-suffix:astra-team.ru
@@ -298,6 +298,7 @@ domain-suffix:atomyze.ru
 domain-suffix:atomyze.team
 domain-suffix:atomyze.tech
 domain-suffix:atriumnn.ru
+domain-suffix:atrtynda.ru
 domain-suffix:atsaero.ru
 domain-suffix:atsenergo.ru
 domain-suffix:atstpay.pro
@@ -523,7 +524,6 @@ domain-suffix:ccalls.site
 domain-suffix:ccb-broker.ru
 domain-suffix:ccb.com
 domain-suffix:ccb.ru
-domain-suffix:cchgeu.ru
 domain-suffix:cctmcx.ru
 domain-suffix:cdbtitan.ru
 domain-suffix:cdek.ru
@@ -905,6 +905,7 @@ domain-suffix:edwardcode.net
 domain-suffix:eens.ru
 domain-suffix:efadevelopment.ru
 domain-suffix:efbank.ru
+domain-suffix:efimeg.ru
 domain-suffix:efis-nco.ru
 domain-suffix:egaisretail.ru
 domain-suffix:egisso.ru
@@ -966,7 +967,7 @@ domain-suffix:entroforce.ru
 domain-suffix:entrustment.ru
 domain-suffix:eosago21-vek.ru
 domain-suffix:epd47.ru
-domain-suffix:epd56.ru
+domain-suffix:epiday.ru
 domain-suffix:epilogica.ru
 domain-suffix:eq-sms.ru
 domain-suffix:eqemail.ru
@@ -1739,6 +1740,7 @@ domain-suffix:kurskduma.ru
 domain-suffix:kuzbank.ru
 domain-suffix:kuzbass-zakon.ru
 domain-suffix:kuzhener.ru
+domain-suffix:kuzia.su
 domain-suffix:kvadra.tech
 domain-suffix:kvartplata.info
 domain-suffix:kvartplata.ru
@@ -1920,6 +1922,7 @@ domain-suffix:med-to.ru
 domain-suffix:med-vdk.ru
 domain-suffix:median.ru
 domain-suffix:mediascope.net
+domain-suffix:medkam.ru
 domain-suffix:medkhv.ru
 domain-suffix:megafon.cloud
 domain-suffix:megafon.ru
@@ -2680,7 +2683,6 @@ domain-suffix:ramblermedia.com
 domain-suffix:rame0.ru
 domain-suffix:rapporto.ru
 domain-suffix:rapporto.tech
-domain-suffix:raspisanie-btt.ru
 domain-suffix:ratings.ru
 domain-suffix:rawenstvo.ru
 domain-suffix:raxly.ru
@@ -2796,7 +2798,6 @@ domain-suffix:rocketozon.by
 domain-suffix:roddom-krd.ru
 domain-suffix:rodnik-altaya.com
 domain-suffix:roe.ru
-domain-suffix:roma.msk.ru
 domain-suffix:romny28-npa.ru
 domain-suffix:roomlink.ru
 domain-suffix:ros-air.ru
@@ -3277,7 +3278,6 @@ domain-suffix:softline.ru
 domain-suffix:softprofessor.ru
 domain-suffix:softvideo.ru
 domain-suffix:sogaz-clinic.ru
-domain-suffix:soglasie.ru
 domain-suffix:sokol-kaluga.ru
 domain-suffix:solid-mn.ru
 domain-suffix:solid.ru
@@ -3376,6 +3376,7 @@ domain-suffix:srd.ru
 domain-suffix:sreda23.ru
 domain-suffix:sredi-cvetov.ru
 domain-suffix:srmfc.ru
+domain-suffix:srobv.su
 domain-suffix:srv-hub.org
 domain-suffix:ssb35.ru
 domain-suffix:sscdomrf.ru
@@ -4057,6 +4058,7 @@ domain-suffix:xn----8sbfckba3a8bcsskd6e.xn--p1ai
 domain-suffix:xn----8sbmmlgncfbgqis7m.xn--p1ai
 domain-suffix:xn----8sbmnfeuhiwe3n.xn--p1ai
 domain-suffix:xn----8sbosabopxq.xn--p1ai
+domain-suffix:xn----8sbuccioem.xn--p1ai
 domain-suffix:xn----ctbbefcvajij3anca5a.xn--p1ai
 domain-suffix:xn----ctbeimd1bern.xn--p1ai
 domain-suffix:xn----dtbhhgacmda3ad6au3ah3f3b4e.xn--p1ai
@@ -4151,7 +4153,6 @@ domain-suffix:xn--80aebecah6apa1adyldqm2sra.xn--p1ai
 domain-suffix:xn--80aefebaq2aefmjn9bxd.xn--p1ai
 domain-suffix:xn--80aegbkvxddlre.xn--p1ai
 domain-suffix:xn--80aegdqmtlj.xn--p1ai
-domain-suffix:xn--80aeimkqakctc.xn--p1ai
 domain-suffix:xn--80aejucoh4c.xn--p1ai
 domain-suffix:xn--80aeylecpi.xn--p1ai
 domain-suffix:xn--80afd3bal.xn--p1ai
@@ -4220,6 +4221,7 @@ domain-suffix:xn--d1aqn.xn--p1ai
 domain-suffix:xn--d1arj.xn--p1ai
 domain-suffix:xn--d1auahegc7h.xn--p1ai
 domain-suffix:xn--e1adjldbbpv.xn--90ais
+domain-suffix:xn--e1afffdle5a.xn--p1ai
 domain-suffix:xn--e1ahdbdflckekkc.xn--p1ai
 domain-suffix:xn--f1aa.xn--p1ai
 domain-suffix:xn--g1ao9b.xn--p1ai
