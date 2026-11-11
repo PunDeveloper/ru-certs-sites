@@ -1,6 +1,6 @@
 # Russian Ministry of Digital Development certificates
-# Updated: 2026-11-10T07:46:02.649228
-# Total: 4352 registrable domains
+# Updated: 2026-11-11T07:32:45.583685
+# Total: 4357 registrable domains
 # Format: domain-suffix (applies to domain and all subdomains)
 
 domain-suffix:04gov.ru
@@ -40,6 +40,7 @@ domain-suffix:2gis.one
 domain-suffix:2gis.ru
 domain-suffix:2gkb.ru
 domain-suffix:2mon.ru
+domain-suffix:34gaz.ru
 domain-suffix:38fbuz.ru
 domain-suffix:3qs.ru
 domain-suffix:4270.ru
@@ -299,7 +300,6 @@ domain-suffix:atomyze.team
 domain-suffix:atomyze.tech
 domain-suffix:atriumnn.ru
 domain-suffix:atrtynda.ru
-domain-suffix:atsaero.ru
 domain-suffix:atsenergo.ru
 domain-suffix:atstpay.pro
 domain-suffix:attachmail.ru
@@ -492,6 +492,7 @@ domain-suffix:bus.gov.ru
 domain-suffix:business-credit.ru
 domain-suffix:buzzoola.com
 domain-suffix:bystrobank.ru
+domain-suffix:bz.ru
 domain-suffix:c-k.ru
 domain-suffix:c-zn.ru
 domain-suffix:ca-magnit.ru
@@ -674,7 +675,6 @@ domain-suffix:crrintegro.ru
 domain-suffix:crrpay.ru
 domain-suffix:crstory.ru
 domain-suffix:crt-test-alpha.ru
-domain-suffix:crutch.msk.ru
 domain-suffix:cryont.ru
 domain-suffix:cryptopro.ru
 domain-suffix:cscampus.ru
@@ -1135,7 +1135,6 @@ domain-suffix:gain-up.ru
 domain-suffix:gainup.ru
 domain-suffix:gaoysport.ru
 domain-suffix:gardiask.ru
-domain-suffix:gasinv.ru
 domain-suffix:gaskk-mck.ru
 domain-suffix:gasu.gov.ru
 domain-suffix:gasuibs.ru
@@ -1187,6 +1186,7 @@ domain-suffix:geocos.ru
 domain-suffix:geoportal40.ru
 domain-suffix:geoscan.ru
 domain-suffix:geovestnik.ru
+domain-suffix:gerartg.ru
 domain-suffix:gersains.ru
 domain-suffix:gesbb.ru
 domain-suffix:gesbt.ru
@@ -1274,6 +1274,7 @@ domain-suffix:govnet.ink
 domain-suffix:govrb.ru
 domain-suffix:govvrn.ru
 domain-suffix:goznak.ru
+domain-suffix:goznakinvest.ru
 domain-suffix:gp2sochi.ru
 domain-suffix:gpab.spb.ru
 domain-suffix:gpb-ee.ru
@@ -1404,6 +1405,7 @@ domain-suffix:hva.im
 domain-suffix:hycl.ru
 domain-suffix:i-exam.ru
 domain-suffix:iac.spb.ru
+domain-suffix:iapras.ru
 domain-suffix:ibam.ru
 domain-suffix:ibam24.ru
 domain-suffix:ibank-nbsrf.ru
@@ -1608,6 +1610,7 @@ domain-suffix:kalmzdrav.ru
 domain-suffix:kalugacard.ru
 domain-suffix:kamaz.org
 domain-suffix:kamaz.ru
+domain-suffix:kammiac.ru
 domain-suffix:kamonco.ru
 domain-suffix:kanzburo.ru
 domain-suffix:kapmed.ru
@@ -1694,6 +1697,7 @@ domain-suffix:kpl32.ru
 domain-suffix:kr-cbs.ru
 domain-suffix:kr4.me
 domain-suffix:krao.ru
+domain-suffix:krascsp.ru
 domain-suffix:krasdomkino.ru
 domain-suffix:krasmechta.ru
 domain-suffix:krasnodar.ru
@@ -1764,7 +1768,6 @@ domain-suffix:lavateka.ru
 domain-suffix:lazarusfinance.ru
 domain-suffix:lazurmedical.ru
 domain-suffix:lbsoft.ru
-domain-suffix:le-dv.ru
 domain-suffix:lebedev.ru
 domain-suffix:lec.team
 domain-suffix:lecta.ru
@@ -1953,7 +1956,6 @@ domain-suffix:mfc12.ru
 domain-suffix:mfk-bank.ru
 domain-suffix:mfnso.ru
 domain-suffix:mfsk.ru
-domain-suffix:mgis42.ru
 domain-suffix:mglk.ru
 domain-suffix:mgn-city.ru
 domain-suffix:mgo.su
@@ -2096,6 +2098,7 @@ domain-suffix:mtfontanka.ru
 domain-suffix:mtronics.ru
 domain-suffix:mts-disk.ru
 domain-suffix:mts-office.ru
+domain-suffix:mts-strahovanie.ru
 domain-suffix:mts.investments
 domain-suffix:mts.ru
 domain-suffix:mtsbank.ru
@@ -2222,7 +2225,6 @@ domain-suffix:nlrs.ru
 domain-suffix:nm-conference.ru
 domain-suffix:nmarket.pro
 domain-suffix:nmchdd.ru
-domain-suffix:nmt54.ru
 domain-suffix:nmz.ru
 domain-suffix:nniirt.ru
 domain-suffix:nnk.ru
@@ -2653,6 +2655,7 @@ domain-suffix:qa-dfo.ru
 domain-suffix:qms.ru
 domain-suffix:qplus.ru
 domain-suffix:qrpays.ru
+domain-suffix:qsrsystem.ru
 domain-suffix:quadcom.biz
 domain-suffix:quality.spb.ru
 domain-suffix:quarton.ru
@@ -2693,10 +2696,10 @@ domain-suffix:rb-collect.ru
 domain-suffix:rb2-tuapse.ru
 domain-suffix:rbank.io
 domain-suffix:rbcollect.ru
-domain-suffix:rbru-depository.ru
 domain-suffix:rbsuat.com
 domain-suffix:rcbiz.ru
 domain-suffix:rcebf.com
+domain-suffix:rchesnakov.ru
 domain-suffix:rcktb.ru
 domain-suffix:rcktbnk.ru
 domain-suffix:rcm-szfo.ru
@@ -3264,6 +3267,7 @@ domain-suffix:sn4il.ru
 domain-suffix:snbank.ru
 domain-suffix:sndko.ru
 domain-suffix:sngb.ru
+domain-suffix:snowqueen.ru
 domain-suffix:snr.su
 domain-suffix:sobe.ru
 domain-suffix:soc23.ru
@@ -3580,7 +3584,6 @@ domain-suffix:testqa.ru
 domain-suffix:tf39besndbx.com
 domain-suffix:tfi-urfo.ru
 domain-suffix:tfoms-rzn.ru
-domain-suffix:tfoms22.ru
 domain-suffix:tfoms52.ru
 domain-suffix:tfomseao.ru
 domain-suffix:tfomsrb.ru
@@ -3759,6 +3762,7 @@ domain-suffix:uralfd.ru
 domain-suffix:uralfinance.ru
 domain-suffix:uralmash-go.ru
 domain-suffix:uralmash-kartex.ru
+domain-suffix:uralmash-ngo.com
 domain-suffix:uralprombank.ru
 domain-suffix:uralsib.ru
 domain-suffix:ureguliryi.ru
@@ -4204,6 +4208,7 @@ domain-suffix:xn--b1afbkon4ai1b.xn--p1ai
 domain-suffix:xn--b1afqbrascj.xn--p1ai
 domain-suffix:xn--b1afyi.xn--p1ai
 domain-suffix:xn--b1agajadjtdhcxg6d.xn--p1ai
+domain-suffix:xn--b1aghfgubnetqw.xn--p1ai
 domain-suffix:xn--b1agmh1ai8d.xn--p1ai
 domain-suffix:xn--b1ajk9a.xn--c1avg
 domain-suffix:xn--b1ajw.xn--p1ai
@@ -4316,7 +4321,7 @@ domain-suffix:zap-mag.ru
 domain-suffix:zapadmorf.ru
 domain-suffix:zapravit-avto.ru
 domain-suffix:zarech.ru
-domain-suffix:zavedi-rebenka.ru
+domain-suffix:zdrav-control-max.ru
 domain-suffix:zdrav.spb.ru
 domain-suffix:zdrav26.ru
 domain-suffix:zdrav74.ru
